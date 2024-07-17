@@ -18,6 +18,16 @@ See References below for citations to original sources whose ideas or words are 
 
 ### Core Concepts
 * [More About Arguing](more-about-arguing.md)
+* Rhetoric and Close Reading
+* Rhetoric and Persona
+* Rhetoric and Narrative
+* Rhetoric and Metaphor
+* Rhetoric and Genre
+* Rhetoric and Emotional Appeals
+* Rhetoric and Ideology
+
+### Integrating Sources
+* Integrating Sources
 
 ### References
 
