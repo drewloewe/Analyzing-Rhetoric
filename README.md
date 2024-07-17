@@ -7,4 +7,4 @@ See References below for citations to original sources whose ideas or words are 
 
 ## Contents
 
-[What is Rhetoric?]()
+[What is Rhetoric?](https://github.com/drewloewe/Analyzing-Rhetoric/blob/main/what-is-rhetoric.md)
