@@ -20,3 +20,5 @@ See References below for citations to original sources whose ideas or words are 
 * [More About Arguing](more-about-arguing.md)
 
 ### References
+
+* [References](references.md)
