@@ -49,7 +49,7 @@ Stein argues that while one can analyze an artifact without fully using a partic
 
 ## Example of Close Textual Analysis
 
-To illustrate what he suggests, Stein offers a close reading of one paragraph of [The Unabomber Manifesto](https://en.wikipedia.org/wiki/Industrial_Society_and_Its_Future) in his article. His analysis begins on p. 9 of the [article](https://ujoc.org/wp-content/uploads/2022/10/ujoc-stein.pdf), which is the sixth page in the online PDF. **Read that analysis**. 
+To illustrate what he suggests, Stein offers a close reading of one paragraph of [The Unabomber Manifesto](https://en.wikipedia.org/wiki/Industrial_Society_and_Its_Future) in his article. His analysis begins on p. 9 of the [article](https://ujoc.org/wp-content/uploads/2022/10/ujoc-stein.pdf), which is the sixth page in the online PDF. **Read that analysis**. Stein makes a case informed by rhetorical theory, but not predetermined by it, and he primarily focuses on the text itself. 
 
 
 
