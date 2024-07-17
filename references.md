@@ -58,6 +58,7 @@
 - Shepherd, Michael, and Carolyn Watters. "The Evolution of Cybergenres." *Proceedings of the Thirty-First Hawaii International Conference on System Sciences*. Vol. 2. IEEE, 1998.
 - Smith, John E. "Time and Qualitative Time." *Rhetoric and Kairos: Essays in History, Theory, and Praxis*, edited by Phillip Sipiora and James S. Baumlin, State University of New York Press, 2002, pp. 46-57.
 - Spinuzzi, Clay, and Mark Zachry. "Genre Ecologies: An Open-System Approach to Understanding and Constructing Documentation." *ACM Journal of Computer Documentation*, vol. 24, no. 3, 2000, pp. 169-181.
+- Stein, Kevin. "A Look Back at Leff and McGee: Close Textual Analysis and the Link Between Theory and Rhetorical Artifact." *Utah Journal of Communication*, vol. 0, no. 1, 2022, pp. 4-10.
 - Stenberg, Shari. "Teaching and (Re)Learning the Rhetoric of Emotion." *Pedagogy*, vol. 1, no. 2, 2011, pp. 349–369.
 - Turner, Kathleen J. “The Glory of Rhetorical Analysis: Communication as a Process of Social Influence.” *Purpose, Practice, and Pedagogy in Rhetorical Criticism*, edited by Jim A. Kuypers, Lexington Books, 2014.
 - Vatz, Richard E. “The Myth of the Rhetorical Situation.” *Philosophy and Rhetoric*, vol. 6, 1973, pp. 154-161.
