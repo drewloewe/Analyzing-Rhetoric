@@ -9,15 +9,20 @@ As Lanham describes it, this defense “argues that there are two kinds of rheto
 But this defense has a significant problem because it is itself arhetorical. As you know, putting an “a” prefix in front of some words negates them, so “arhetorical” means “not rhetorical.” The Weak Defense is arhetorical because it presumes that there is some place to stand outside of language, context, values, and particular situations to judge what counts as “good” vs. “bad" rhetoric. It’s really just the old rhetoric vs. substance opposition again. The Weak Defense sees rhetoric as a neutral tool that can be used or abused, just as a knife can be used to prep a special meal for your family, or to stab strangers for thrills. But rhetoric involves choices made in uncertain situations, each affected by context and purpose. It is complicated and layered. It is also unavoidable.
 
 ## The Strong Defense 
-So mental self-defense, even if important, is not a sufficient justification for learning rhetorical analysis. In contrast to the Weak Defense, Lanham offers the Strong Defense. As Lanham explains, "The Strong Defense assumes that truth is determined by social dramas, some more formal than others, but all man-made. Rhetoric in such a world is not ornamental but determinative, essentially creative. Truth once created in this way becomes referential, as in legal precedent." 
+So mental self-defense, even if important, is not a sufficient justification for learning rhetorical analysis. In contrast to the Weak Defense, Lanham offers the Strong Defense. As Lanham explains,
+>> The Strong Defense assumes that truth is determined by social dramas, some more formal than others, but all man-made. Rhetoric in such a world is not ornamental but determinative, essentially creative. Truth once created in this way becomes referential, as in legal precedent.
 
 So one wider reason to learn rhetorical analysis beyond the rather limited focus of self-defense against lying or bullshit is to understand how what even counts as true, good, desirable, bad, valuable, important, etc. in the first place gets created and maintained by the circulation and recirculation of rhetoric, both in the immediate moment, and across contexts.
 
 To get audiences on board (or stay on board) with a set of ideas, rhetors must constantly try to call attention to what they position as worth pointing out, explaining, arguing, urging, or warning against. Rhetors must offer what particular audiences might accept as good reasons to do, think, feel, or believe something. So rhetorical analysis can help you to see and understand the water that all of us human fish are swimming in, all the time. Here, the rhetoric is the substance, at least where communication gets things done in social contexts, bringing people together—or driving them apart. 
 
-As rhetoric scholar Celeste Condit puts it, "Rhetoric is the clay of which the social pottery will be made. The character of the clay itself determines the character of the vessel."
+As rhetoric scholar Celeste Condit puts it, 
 
-Gerald Hauser, another scholar, offers an even more urgent rationale: "Without rhetorical competence, citizens are disabled in the public arenas of citizen exchange—the marketplace, the representative assembly, the court, and public institutions—and democracy turns into a ruse disguising the reality of oligarchic power." 
+>> Rhetoric is the clay of which the social pottery will be made. The character of the clay itself determines the character of the vessel."
+
+Gerald Hauser, another scholar, offers an even more urgent rationale: 
+
+>> Without rhetorical competence, citizens are disabled in the public arenas of citizen exchange—the marketplace, the representative assembly, the court, and public institutions—and democracy turns into a ruse disguising the reality of oligarchic power.
 
 So if it's rhetoric all the way down, let's start to learn about, and judge, rhetorical efforts. 
 ## The rationale for this course
