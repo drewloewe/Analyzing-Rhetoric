@@ -28,3 +28,17 @@ Ask these questions:
 ### Questions About Relevance-R
 * Does the support actually support this particular claim? Does it support a claim that is “kind of” like this one, but not really this claim?
 * These questions will help you to understand and analyze arguments: yours, mine, your classmates’, anyone’s.
+
+## Enthymemes
+Arguments function with claims and support, and you can ask the STAR questions about the connection between claims and support. You will be expected, in your work in this class, to craft explicit, clear, well-supported arguments. All that is well and good, but you know from having lived your life so far that people often do not give explicit support for their claims, yet audiences often accept them. Some of the most powerful and effective arguments seem to rely on an assumption that the audience will fill in the missing support on its own.
+This phenomenon is nothing new. Aristotle noticed it back in ancient times, and came up with a term for it, the enthymeme (pronounced EN-thuh-meme). According to a translation by scholar George Kennedy, in Ancient Greek, enthymeme meant “something held in the mind,” with the audience holding the “missing” support for claims in its mind. Thus, depending on context, the rhetor does not necessarily have to offer explicit support for some (or any) of their claims. Instead, the rhetor might rely on the audience to participate in co-creating meaning by filling in the gaps from a common well of accepted support.
+Every meme, and much humor, relies on the audience supplying the unstated connections. Can you think of examples of memes and jokes that work as enthymemes, with the audience filling in the unstated part? Enthymemes are at the heart of rhetoric. As Rita Copeland, a scholar of classical studies and literature, explains it,
+
+>> The word “enthymeme”… comes from the word thymos, meaning heart, mind, spirit, desire or soul as manifested through the passions. It signifies the seat of emotions and intuitions, where inferences, judgments, and intentions are made. As the key device of persuasion, the enthymeme is a kind of junction box between emotion and deliberation.
+
+Because rhetorical analysts are especially interested in how rhetors and audiences share meaning, you should always look out for what is taken for granted in any communication.
+If claims do not have explicit stated support, what does the rhetor seem to be taking for granted that their audience will already accept or fill in on their own? A clear sense of what is taken for granted is a powerful tool for understanding communication. It also underscores the need for you to understand communication in context—you will have to figure out, by research, what seems to be taken for granted by the rhetor and audience. Surfacing the implicit, unspoken ideas in communication and working through their implications is central to effective rhetorical analysis. Indeed, rhetoric scholar Krista Ratcliffe, to whom I'll give the last word here, argues that the enthymeme is crucial to understand because it is
+
+>> a rhetorical tactic with the potential to help people construct their own arguments and analyze arguments directed to them by detecting the unstated. Once such dark matter and energy are detected, we can determine if the detected assumptions reasons, and claims need to be celebrated or challenged.
+
+
