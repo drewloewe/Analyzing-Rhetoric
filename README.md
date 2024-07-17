@@ -17,6 +17,6 @@ See References below for citations to original sources whose ideas or words are 
 * [Advice to Beginning Rhetorical Analysts](advice-to-beginners.md)
 
 ### Core Concepts
-* More About Arguing
+* [More About Arguing](more-about-arguing.md)
 
 ### References
