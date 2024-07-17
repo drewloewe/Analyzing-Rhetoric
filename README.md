@@ -8,3 +8,4 @@ See References below for citations to original sources whose ideas or words are 
 ## Contents
 
 [What is Rhetoric?](https://github.com/drewloewe/Analyzing-Rhetoric/blob/main/what-is-rhetoric.md)
+[Why Learn Rhetorical Analysis?](https://github.com/drewloewe/Analyzing-Rhetoric/blob/main/why-learn-rhetorical-analysis.md)
