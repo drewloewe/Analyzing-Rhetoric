@@ -31,6 +31,7 @@
 - Foss, Sonja K. *Rhetorical Criticism: Exploration and Practice*, 5th ed., 2018.
 - Fulkerson, Richard. "Technical Logic, Comp-Logic, and the Teaching of Writing." *College Composition and Communication* vol. 39, no. 4. 1988, pp. 436-452.
 - Gent, Whitney, Emily Sauter, and Daniel Cronn-Mills. "Validity and the Art of Rhetorical Criticism." *Annals of the International Communication Association*, vol 44, no. 3, 2020, pp. 201-209.
+- Hallsby, Atilla. [*Reading Rhetorical Theory*](https://open.lib.umn.edu/rhetoricaltheory/). University of Minnesota Libraries Publishing, 2022. CC-BY-NC 4.0. 
 - Harker, Michael. "The Ethics of Argument: Rereading Kairos and Making Sense in a Timely Fashion." *College Composition and Communication*, vol. 59, no. 1, 2007, pp. 77-97.
 - Integrating Sources. *Harvard Guide to Using Sources*, 2024. Harvard College Writing Program, 2024, [https://usingsources.fas.harvard.edu/sites/projects.iq.harvard.edu/files/sources/files/integrating_sources.pdf](https://usingsources.fas.harvard.edu/sites/projects.iq.harvard.edu/files/sources/files/integrating_sources.pdf).
 - Jamieson, Kathleen Hall. “Rhetorical Hybrids: Fusions of Generic Elements.” *Quarterly Journal of Speech*, vol. 68, 1982, pp. 146–157.
