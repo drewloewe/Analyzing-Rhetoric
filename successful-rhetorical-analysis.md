@@ -32,8 +32,8 @@ A similar problem arises when the analyst spends too much time trying to show ho
 ## What Analysis and Argument Enable: Making Knowledge
 These are the two ultimate questions that rhetorical analysts take on. They are easy to state and challenging to answer:
 
-* So What?
-* Where Do We Go From Here?
+* So what?
+* Where do we go from here?
 
 A useful rhetorical analysis isn’t just the application of X or Y ideas from rhetorical theory to a particular instance. In other words, the point of a rhetorical analysis isn’t just to analyze a primary rhetorical artifact for its own sake. Nobody wakes up in the morning and says, “I can’t wait to go apply stuff!” Analysis enables you to make your larger point—to make knowledge.
 
