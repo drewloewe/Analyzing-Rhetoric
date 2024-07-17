@@ -8,9 +8,21 @@ What about the fact that **different analysts, with different theories, might pr
 
 And, **even if an analyst really wants to work with an artifact itself without carrying the burdens or obligations of particular theories, how exactly are they supposed to do that?** It's this last debate that we'll focus on this section.
 
-## The Leff vs. McGee Debate
+## The Two Michaels: the Leff vs. McGee Debate
 
-Two influential rhetorical analysts, coincidentally both named Michael, exemplify this debate. Michael Leff argued that an overreliance on theory distracts the analyst from the artifact and therefore diminishes the potential insights that can be gained by doing analysis. Similarly, Michael McGee argued that the act of analysis should be what creates various theories, rather than analyses being applications of particular theories. Both Leff and McGee are therefore more "bottom-up" (working from particulars to develop generalities) than "top-down" (using generalities to illuminate particulars) analysts. In other words, Leff and McGee promote methods of close textual reading to develop insights from the artifact and its context rather from applying preexisting theoretical ideas.
+Two influential rhetorical analysts, coincidentally both named Michael, exemplify this debate. Michael Leff argued that an overreliance on theory distracts the analyst from the artifact and therefore diminishes the potential insights that can be gained by doing analysis. Similarly, Michael McGee argued that the act of analysis should be what creates various theories, rather than analyses being applications of particular theories. In other words, Leff and McGee promote methods of close textual reading to develop insights from the artifact and its context rather from applying preexisting theoretical ideas. Leff sums it up this way:
 
-But Leff and McGee em
+>>While the critic must frame the discourse within its context, the focus of attention [should] center[] on the text itself and the rhetorical features embedded within it. Working from the evidence within the text, the critic proceeds to make inferences about what the work is designed to do, how it is designed to do it, and how well that design functions to structure and transmit meanings within the realm of public experience.
+
+So both Leff and McGee want to focus primarily on the artifact and don't want to use theory to pigeonhole or process artifacts in a mechanistic or predetermined way. But they diverge in several respects over some thorny issues:
+
+### What Exactly is the Object of Analysis? 
+
+Leff argued that it was possible to draw reasonably stable boundaries around a rhetorical artifact, such as a famous political speech, such that an analyst could work primarily with the text of the speech itself and pay relatively less attention to elaborating context or the effects the speech had. Leff did not argue that context was irrelevant, but wanted analysts to focus mostly on the artifact itself. 
+
+McGee, on the other hand, saw rhetoric more expansively and woven into the creation and circulation of ideology, beliefs, and attitudes in a society. For McGee, individual texts are not discrete units of analysis but are "fragments of 'information' that constitute our context." So McGee emphasized that analysts should pay more attention to cultural contexts because "the elements of context are so important to the text that one cannot discover or even discuss the meaning of text without reference to them.”
+
+
+
+
 
