@@ -27,7 +27,7 @@ See References below for citations to original sources whose ideas or words are 
 * Rhetoric and Ideology
 
 ### Integrating Sources
-* Integrating Sources
+* [Integrating Sources](integrating-sources.md)
 
 ### References
 
