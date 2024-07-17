@@ -11,3 +11,4 @@ See References below for citations to original sources whose ideas or words are 
 * [Why Learn Rhetorical Analysis?](https://github.com/drewloewe/Analyzing-Rhetoric/blob/main/why-learn-rhetorical-analysis.md)
 * [What is Rhetorical Theory?](https://github.com/drewloewe/Analyzing-Rhetoric/blob/main/rhetorical-theory.md)
 * [What Makes a Successful Rhetorical Analysis?](successful-rhetorical-analysis.md)
+* [Key Terms](key-terms.md)
