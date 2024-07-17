@@ -25,7 +25,7 @@ What do those competing definitions, and countless others that might have been i
 
 Let’s break that out into its parts:
 
-###contextual, situated communication
+### contextual, situated communication
 
 Communication never comes out of a vacuum or goes into one; any attempt to reach an audience is necessarily affected by the particular interests, values, and histories of particular groups of people, as well as past, present or (anticipated) future events. The words themselves are never enough. Even a banal statement such as "Here he comes" could signal enthusiasm, warning, dread, boredom, or other attitudes that are understandable only in context. One core consideration of rhetoric falling under the idea of context is *kairos*, the sense of the right time, right place, the opportune moment, and the fitting response. After all, rhetoric that is not responsive to the moment or the backstory or "what we do on situations like this" is likely to fail. One way to begin to understand kairos is to contrast it with another sense of time: *chronos*.
 
@@ -33,14 +33,18 @@ Communication never comes out of a vacuum or goes into one; any attempt to reach
 
 John E. Smith, a philosopher, explained *kairos* this way:
 >> There is, ﬁrst, the idea of the “right time” for something to happen in contrast to “any time,” a sense that is captured nicely in the word “timing,” as when we say, “The Governor’s timing was poor; he released the story to the press too soon and thus lost the advantage of surprising his political opponents.” Second, *kairos* means a time of tension and conﬂict, a time of crisis implying that the course of events poses a problem that calls for a decision at that time, which is to say that no generalized solution or response supposedly valid at any or every time will sufﬁce. Third, *kairos* means that the problem or crisis has brought with it a time of opportunity (kairos is translated by the Latin *opportunitas*) for accomplishing some purpose which could not be carried out at some other time. Implicit in all three meanings embraced by kairos is the concept of an individual time having a critical ordinal position set apart from its predecessors and successors.
->> 
-Stated another way by rhetoric scholar Donovan Bisbee, "Attuning analysis to kairos emphasizes strategies that advance a particular sense of time that calls for movement and positions this moment as the time for action."
-More about kairos can be found in Kate Pantelides' explanation in the open-source encyclopedia Writing Commons. That resources uses a Creative Commons license: CC BY-NC-ND 4.0.
-Another concept closely related to kairos is the concept of exigence (or exigency; I've seen it both ways). In a well-known article, rhetoric scholar Lloyd Bitzer defined exigency as "an imperfection marked by urgency...a defect, an obstacle, something waiting to be done, a thing which is other than it should be." In other words, why is the rhetor speaking, writing, or creating this rhetorical effort? What are they trying to change, reinforce, or address?
-1.3.2 made often (but not necessarily or exclusively) via language
+
+Stated another way by rhetoric scholar Donovan Bisbee, "Attuning analysis to *kairos* emphasizes strategies that advance a particular sense of time that calls for movement and positions this moment as the time for action."
+
+Another concept closely related to *kairos* is the concept of exigence (or exigency; I've seen it both ways). In a well-known article, rhetoric scholar Lloyd Bitzer defined exigency as "an imperfection marked by urgency...a defect, an obstacle, something waiting to be done, a thing which is other than it should be." In other words, why is the rhetor speaking, writing, or creating this rhetorical effort? What are they trying to change, reinforce, or address?
+
+### made often (but not necessarily or exclusively) via language
 Typical ideas of what counts as rhetoric usually involve speaking or writing, and much of what we have inherited over millennia as rhetorical theory assumes a spoken or written (that is, language-based) interaction. But rhetoric operates outside the confines of language, too. Images; icons; symbols; volume; gesture; movement; sounds; hyperlinks; monuments, statues, or buildings; and even colors are just some ways that rhetoric operates in ways that do not necessarily make words the only game in town when it comes to crafting a message for an audience. The rhetorical analyst must learn to notice all that is there to be noticed and figure out how best to understand a particular message.
-1.3.3 addressed to audiences
+
+### addressed to audiences
 While you can try to argue to or persuade yourself, rhetoric is best thought of as communication that is addressed to a particular hearer, reader, viewer, or group, typically those with some sort of interest or stake in the subject. These audiences are primary or intended audiences. Primary audiences need not be entirely homogenous—if a particular communication is addressed to, say, St. Edward’s students, it will likely contain evidence of an effort to appeal to what the various overlapping groups that make up the student body (traditional and non-traditional undergraduates, graduate students, veterans, international students, people of different genders, etc.) have in common. But of course, especially now in the age of social media, messages can reach secondary or unintended audiences, some of which take up the message for the purposes of subverting, remixing, parodying, or resisting it. The rhetorical analyst must learn to notice and differentiate between primary and other audiences and avoid thinking of any audience as entirely homogenous.
-1.3.4 designed for particular purposes.
+
+### designed for particular purposes.
 Rhetoric circulates to prompt audiences to do, think, feel, or believe something—to adhere to some idea. That idea might be laudable: honor our veterans, lower the cost of medication, affirm the values of a free society, etc. Or it might be insidious: obstruct the democratic process, divide the populace, preserve unfair advantage, etc.
+
 Rhetoric has a wide scope. It’s all in there—rhetoric includes all the good, the bad, the “mixed good and bad,” the weird, the niche, the mainstream, the bizarre, the accepted, the avant-garde, and on and on. For the rhetorical analyst, any effort to reach an audience for some purpose, whether that purpose is what most would consider worthy of praise (or of condemnation), combined with the analyst’s own curiosity, is possibly worth learning about.
