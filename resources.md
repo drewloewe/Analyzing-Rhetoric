@@ -1,4 +1,4 @@
-# Resources
+# Resources to Get Started
 
 ## Where to Find Primary Rhetorical Artifacts
 The opportunity to do rhetorical analysis presents the analyst with two initial challenges: 
