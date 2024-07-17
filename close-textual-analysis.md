@@ -1,6 +1,6 @@
 # Rhetoric and Close Textual Analysis
 
-**Credit**: This section is heavily indebted to Kevin Stein's article "Close Textual Analysis and the Link Between Theory and Rhetorical Artifact" listed in the [References](references.md).
+**Credit**: This section is heavily indebted to Kevin Stein's article ["Close Textual Analysis and the Link Between Theory and Rhetorical Artifact"](https://ujoc.org/wp-content/uploads/2022/10/ujoc-stein.pdf) listed in the [References](references.md).
 
 ## What is Theory's Role?
 It's probably not suprising—given the contested, contextual nature of rhetoric itself—that there has been a lot of debate about how rhetorical analysis is supposed to be done. To paraphrase an old joke about Jesuits, if you have two rhetorical analysts on an issue, you'll have four opinions. 
@@ -31,7 +31,7 @@ So both Michaels wanted to break away from theory as being deterministic or dict
 
 ## One Way to Do a Close Textual Reading
 
-Stein offers an approach that he argues is productive and that blends insights from the Leff and McGee approaches, while avoiding possible pitfalls. Stein suggests that an analyst pay attention to the following:
+Stein offers an approach that he argues is productive and that blends insights from the Leff and McGee approaches, while avoiding possible pitfalls. Stein argues that "Rhetoricians should not be trained in broad theoretical structures that can be used to analyze texts. They should become masters of rhetorical processes." So Stein suggests that an analyst pay attention to the following:
 
 ### 1. Delineate the Context
 
@@ -41,7 +41,17 @@ Stein seems to argue that the analyst can pay some attention to context, and sho
 
 Stein agrees with Leff that one can reasonably delineate a particular artifact for analysis even while that artifact of course does not arise from, or go into, a vacuum free from other artifacts. He argues that rhetorical analysis would not be possible without this sort of line-drawing. Again, make a judgment call.
 
-### 3. Recognize that 
+### 3. Recognize that You Can Never Escape Presuppositions, but Build Your Case
+
+Stein argues that while one can analyze an artifact without fully using a particular theoretical framework, any act of reading entails presuppositions on the analyst's part. What does the analyst notice? Why does that stand out? What case can they make about the artifact and, as always, **so what?** Stein puts it this way:
+
+>>All researchers, including rhetorical critics, select their objects of study based on which questions interest them. If they randomly selected research questions in order to avoid these biases, there would be no such thing as a program of study and there would be a great many bored scholars. Apart from my assumption regarding the text’s worthiness, I also assume that the context is significant, that the text will yield something interesting, and that a close systematic examination of the features is the appropriate method of analysis.
+
+## Example of Close Textual Analysis
+
+To illustrate what he suggests, Stein offers a close reading of one paragraph of [The Unabomber Manifesto](https://en.wikipedia.org/wiki/Industrial_Society_and_Its_Future) in his article. His analysis begins on p. 9 of the [article](https://ujoc.org/wp-content/uploads/2022/10/ujoc-stein.pdf), which is the sixth page in the online PDF. **Read that analysis**. 
+
+
 
 
 
