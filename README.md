@@ -18,7 +18,7 @@ See References below for citations to original sources whose ideas or words are 
 
 ### Core Concepts
 * [More About Arguing](more-about-arguing.md)
-* Rhetoric and Close Reading
+* Rhetoric and Close Textual Analysis
 * Rhetoric and Persona
 * Rhetoric and Narrative
 * Rhetoric and Metaphor
