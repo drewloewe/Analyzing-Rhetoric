@@ -15,3 +15,8 @@ See References below for citations to original sources whose ideas or words are 
 * [What Makes a Successful Rhetorical Analysis?](successful-rhetorical-analysis.md)
 * [Resources to Get Started](resources.md)
 * [Advice to Beginning Rhetorical Analysts](advice-to-beginners.md)
+
+### Core Concepts
+* More About Arguing
+
+### References
