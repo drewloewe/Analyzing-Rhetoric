@@ -25,9 +25,9 @@ For instance, a story may be about characters whose lives were changed by the te
 
 Here are some explanations that will make these concepts easier to understand:
 
-⏯️ [*Pulp Fiction* and the Secret of Non-Linear Storytelling](https://www.youtube.com/watch?v=BMrUP4nb8gw) (Narrative time and syuzhet)
-🔗[*Pulp Fiction* in Chronological Order](https://screenrant.com/pulp-fiction-movie-story-chronological-order/) (Fabula)
-🔗 [Two of the Most Important Storytelling Concepts You’ve Never Heard Of](https://thescriptlab.com/blogs/31979-two-of-the-most-important-storytelling-concepts-youve-never-heard-of/)
+* ⏯️ [*Pulp Fiction* and the Secret of Non-Linear Storytelling](https://www.youtube.com/watch?v=BMrUP4nb8gw) (Narrative time and syuzhet)
+* 🔗[*Pulp Fiction* in Chronological Order](https://screenrant.com/pulp-fiction-movie-story-chronological-order/) (Fabula)
+* 🔗 [Two of the Most Important Storytelling Concepts You’ve Never Heard Of](https://thescriptlab.com/blogs/31979-two-of-the-most-important-storytelling-concepts-youve-never-heard-of/)
 
 
 
