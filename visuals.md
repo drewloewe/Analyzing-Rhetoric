@@ -41,3 +41,16 @@ Visual culture is the site of **dominant**, **negotiated**, and **oppositional**
 
   ![Iwo Jima flag image](https://open.lib.umn.edu/app/uploads/sites/280/2022/01/flag-raising-on-iwo-jima.png)
 
+* A negotiated reading is where the viewer accepts some of the taken-for-granted meanings but recognizes exceptions. They understand what the image depicts, but challenge what it means. Depicted below is public artwork from Sydney, Australia that shows soldiers raising a McDonald’s sign rather than the flag. Like the original photograph, the image denotes a kind of military “victory,” but one that ultimately supports America as the land of capitalist corporations rather than as upholding civic virtue. The negotiated reading allows some of the photograph’s original meanings to be accepted — the denotation of American victory — while others are challenged — replacing nationalistic camaraderie with connotations of commercialism.
+
+![Image by JAM Project-CC-By-NC-ND 2.0](https://open.lib.umn.edu/app/uploads/sites/280/2022/01/fukt-mcdonalds.jpg)
+
+* In an oppositional reading, the viewer subverts or challenges the basic ideas of an image circulating in public contexts. During the Iraq War, political cartoonist Billy Day drew a cartoon showing oil executives from Texaco, Exxon, Chevron, and Halliburton raising an oil derrick — and gas prices — under a banner reading “mission accomplished” in an oppositional reading of the famous Iwo Jima image.
+
+![Bill Day cartoon](https://shaymont.wordpress.com/wp-content/uploads/2014/02/iwo-jima.jpg)
+
+“Mission Accomplished” was a phrase visually featured in a speech by George W. Bush, who had declared victory in Iraq and Afghanistan in 2003 while aboard an aircraft carrier. The cartoon is oppositional because it suggests that the U.S.'s motives for victory were financial rather than virtuous and that the “victory” that was sought might actually be reflected in harder times for Americans at the gas pumps. The oppositional reading, therefore, acknowledges the denotation (or “victory”) and the connotation (or “virtue”) by offering a rebuttal to the dominant reading on both fronts.
+
+### 5) Visual Culture is a Stage for Presence
+Fifth, visual images possess presence. Presence means that the image has an immediate impact on the viewer’s perception, or that it “acts on us” by bringing something before our eyes. 
+
