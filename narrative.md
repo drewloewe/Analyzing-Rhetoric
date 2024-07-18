@@ -29,13 +29,34 @@ Here are some explanations that will make these concepts easier to understand:
 * 🔗[*Pulp Fiction* in Chronological Order](https://screenrant.com/pulp-fiction-movie-story-chronological-order/) (Fabula)
 * 🔗 [Two of the Most Important Storytelling Concepts You’ve Never Heard Of](https://thescriptlab.com/blogs/31979-two-of-the-most-important-storytelling-concepts-youve-never-heard-of/)
 
+## Formal and Generic Elements of Narrative
+
+Narratives are also categorized and reshaped by genre or conventions that allow stories to be widely recognizable and appreciated by wide audiences. Genres create a pattern of expectation, such that some of the best stories make us question our expectations of what the characters will do or make us jump with a twist ending. Both “form” and “genre” refer to ways of organizing narrative. So, what is the difference?
+
+Form and genre are two important ways of describing the recognizable organization of narratives. According to the description provided here, forms are the particular logical elements that may occur within a given narrative, while genres are arrangements of those elements as recognizable kinds of narrative.
+
+Forms are akin to the building blocks of narrative. They are durable, repeatable elements that may appear as features within many different narratives. Form arrange symbols and organize language in ways that give it a recognizable and repeatable order, like a figure of speech. 
+
+* ⏯️ [See how the musical form of “the four-chord song” uses a similar sequence of notes, played at a variety of tempos, to create a range of different songs](https://www.youtube.com/watch?v=5pidokakU4I).
+* ⏯️ [The Cinematography of Horror](https://www.youtube.com/watch?v=iMKtCT21UvU)
+  
+Forms can be picked up and then used in a variety of different contexts, creating the same meaning using different messages. For example, the “distracted boyfriend meme” may be understood as a form when we witness the same elements in a similar arrangement within a different image or text. This meme has a precursor from *The Killers*, a film from 1946:
+
+![Still from *The Killers* and Distracted Boyfriend meme](https://x.com/sociolinguista/status/1725731722845647290)
+
+
+When we recognize the similarities between these images, we can see how a similar meaning occurs in very different messages whose creation is separated by several decades. In a nutshell: form is a way to create the same meaning across different messages.
 
 
 
 
+ or creating different meanings using the same messages. 
+
+* Same m
 
 
 
+By themselves, forms are ambivalent concerning the ethical or political goals that they serve. Studying form alone cannot tell us which forms are correct or better or worse. They serve a number of different purposes. When analzying forms, we have to pay attention to where and how those forms are being used. The following video offers an excellent example of forms and how they may be picked up, repeated, and recur in many different texts.
 
 
 
