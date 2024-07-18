@@ -42,7 +42,7 @@ Forms are akin to the building blocks of narrative. They are durable, repeatable
   
 Forms can be picked up and then used in a variety of different contexts, creating the same meaning using different messages. For example, the “distracted boyfriend meme” may be understood as a form when we witness the same elements in a similar arrangement within a different image or text. This meme has a precursor from *The Killers*, a film from 1946:
 
-![Still from *The Killers* and Distracted Boyfriend meme](https://x.com/sociolinguista/status/1725731722845647290)
+![Still from *The Killers* and Distracted Boyfriend meme compared by Sylvia Sierra]()
 
 
 When we recognize the similarities between these images, we can see how a similar meaning occurs in very different messages whose creation is separated by several decades. In a nutshell: form is a way to create the same meaning across different messages.
