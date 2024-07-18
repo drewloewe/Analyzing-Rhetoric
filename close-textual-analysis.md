@@ -1,6 +1,6 @@
 # Rhetoric and Close Textual Analysis
 
-**Credit**: This section is heavily indebted to Kevin Stein's article ["Close Textual Analysis and the Link Between Theory and Rhetorical Artifact"](https://ujoc.org/wp-content/uploads/2022/10/ujoc-stein.pdf) listed in the [References](references.md).
+**Credit**: This section is heavily indebted to Kevin Stein's article "Close Textual Analysis and the Link Between Theory and Rhetorical Artifact" listed in the [References](references.md).
 
 ## What is Theory's Role?
 It's probably not suprising—given the contested, contextual nature of rhetoric itself—that there has been a lot of debate about how rhetorical analysis is supposed to be done. To paraphrase an old joke about Jesuits, if you have two rhetorical analysts on an issue, you'll have four opinions. 
