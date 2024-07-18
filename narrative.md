@@ -1,6 +1,6 @@
 # Rhetoric and Narrative
 
-**Credit**: This section is adapted from the chapter on rhetoric and narrative in Atilla Hallsby's *Reading Rhetorical Theory* cited in the [References](references.md).
+**Credit**: This section is adapted from the chapter on rhetoric and narrative in Atilla Hallsby's CC-BY-NC work *Reading Rhetorical Theory* cited in the [References](references.md).
 
 This section discusses the relationship between rhetoric and narrative. The first part of this section introduces key concepts related to narrative, including the inside/outside of narratives, form, genre, and narrative frame theory. The second section of the chapter addresses Walter Fisher’s influential narrative paradigm and the concepts of narrative coherence and narrative fidelity. 
 
@@ -44,15 +44,15 @@ Forms can be picked up and then used in a variety of different contexts, creatin
 
 ![Still from *The Killers* and Distracted Boyfriend meme compared by Sylvia Sierra](https://github.com/user-attachments/assets/f859be09-754e-4965-9d6e-c88e3975f572)
 
+When we recognize the similarities between these images, we can see how a similar meaning occurs in very different messages whose creation is separated by several decades. But forms also can create different meanings with the same message. Memes work this way. The image below is of Brittany Broski, the star of the “Kombucha Girl” meme. On the left, Broski’s signature facial expressions carry the captions “We need to have a talk” and  “We need to have a taco.” But this form, the very same image, can carry a different meaning as well.  The image on the left shows Broski’s face both disgusted at climate change and optimistic at the prospect of doing something about it. In this case, “Kombucha Girl” produces a form that creates different meanings using the same message, the same template.
 
-When we recognize the similarities between these images, we can see how a similar meaning occurs in very different messages whose creation is separated by several decades. In a nutshell: form is a way to create the same meaning across different messages.
+![Brittney Broski meme and its use on protest sign](https://open.lib.umn.edu/app/uploads/sites/280/2022/01/chapter8kombucha.png)
 
 
 
+Memes, jokes, and a lot of common sayings work the same way.
 
- or creating different meanings using the same messages. 
 
-* Same m
 
 
 
