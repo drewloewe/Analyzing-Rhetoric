@@ -32,3 +32,12 @@ Presentational symbolism also “produce a simultaneous impression of many eleme
 
 ![Coronavirus Outbreak Map](https://open.lib.umn.edu/app/uploads/sites/280/2022/01/screenshot-of-gestalt-data-of-covid-outbreak-in-US.png)
 
+### 4) Visual Culture is Where Rhetorical Reading Happens
+
+Visual culture is the site of **dominant**, **negotiated**, and **oppositional** readings. These key terms describe how we interpret the visual rhetoric we encounter and create new visual rhetorics in response.
+
+
+* The dominant reading is the preferred, taken-for-granted, hegemonic reading. In a dominant reading, the viewer takes the connoted meeting, and operates in the dominant code. Depicted below is the famous “Flag Raising on Iwo Jima.” It is also an example of an “iconic photograph.” The most literal, hegemonic interpretation of the image is as a celebration of American teamwork in service of the shared goal of U.S. military victory. This is a dominant reading of this image. According to Palczewski et.al., “by recognizing and accepting these connotations, we participate in a dominant reading, in which what this means for the United States culturally is accepted and goes unchallenged.”
+
+  ![Iwo Jima flag image](https://open.lib.umn.edu/app/uploads/sites/280/2022/01/flag-raising-on-iwo-jima.png)
+
