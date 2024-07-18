@@ -2,10 +2,6 @@
 
 **Credit**: This section is adapted from the chapter on rhetoric and narrative in Atilla Hallsby's CC-BY-NC work *Reading Rhetorical Theory* cited in the [References](references.md).
 
-This section discusses the relationship between rhetoric and narrative. The first part of this section introduces key concepts related to narrative, including the inside/outside of narratives, form, genre, and narrative frame theory. The second section of the chapter addresses Walter Fisher’s influential narrative paradigm and the concepts of narrative coherence and narrative fidelity. 
-
-## Form, Genre, and Frame Theory
-
 Narratives have many different components that make them rhetorically relevant. They are reflections of an audience’s values: a story is never just a story. They are about the people telling them, about ways of envisioning the future, or about the contemporary problems that those tellers are confronted with.
 
 Narratives are ways of shaping public memory or retelling events that have happened in the past. They allow us to remember what has happened or to retell these moments as alternate futures. They organize how we interpret public events that we encounter in our everyday lives. Many people have tried to make sense of the Covid-19 pandemic by watching films such as ⏯️ [Outbreak](https://www.youtube.com/watch?v=Y5povsMKfT4) or ⏯️ [Contagion](https://www.youtube.com/watch?v=4sYSyuuLk5g). Narratives also reflect a dominant ideology because they reflect the values not just of the people who create them but of the people who read and watch them, making them a part of their lives.
@@ -61,6 +57,34 @@ Genres also set audience expectations about coherence and resolution. When we wa
 When the formal elements of a genre are re-configured, they create new kinds of stories.  Below, you’ll find an example of genre expectation violation. Extra-diegetic elements like the music and the narrator’s voice interrupt what we would expect. 
 
 * ⏯️ [Parody Trailer for *The Shining*](https://www.youtube.com/watch?v=-e6d_gzaDgk)
+
+
+## Narrative Frames
+
+Narrative frames are ways that public events are constructed through a narrative. Two critical communication theorists use “frame” to describe narratives: Kenneth Burke and Shanto Iyengar.
+
+### Comic and Tragic Frames
+Burke's frames are borrowed from Aristotle. They are the comic frame and the tragic frame. For Burke, the same story can be told as a comedy or a tragedy. The difference lies in how we see the motives of the characters.
+
+* The comic frame is a viewpoint that would have you see others as mistaken rather than evil, bumbling instead of calculating. In ⏯️ [this promo for *Veep*](https://www.youtube.com/watch?v=ggitcJ3fwjk), Selena Meyer and her aides are incapable of doing their jobs, which is the main reason that you are invited to see them as mistaken rather than as terrible people.
+* By contrast, the tragic frame would have you see others as evil rather than mistaken, calculating instead of bumbling. In ⏯️ [this clip from *House of Cards*](https://www.youtube.com/watch?v=x2PZOtlulu4&t=1s), the two main characters plot and scheme to use a declaration of war to distract from their various scandals.
+
+### Episodic and Thematic Frames
+
+Shanto Iyengar’s media frames account for how news stories are repeated and told in a political context. The frames are traditionally understood in terms of the way that news stories are organized. 
+
+* The **episodic frame** depicts public issues in concrete instances or public events; the episodic “makes for good pictures.” Its key characteristic is the snapshot or the close-up. It is about isolated events disconnected from a greater context. They are “human interest stories” that are reducible to the motives of individual actors. Something surprising has happened or is happening, but for no particular reason other than the psychology of the people involved.
+
+* The **thematic frame** places public issues in some general context. They establish a history and structure that has allowed the events to occur the way they have. Often, thematically framed narratives take the form of a “takeout” or “background” report directed at the general outcomes of policy or event. The thematic frame would, for example, draw attention to conditions of gentrification as the reason for greater homelessness or stock buybacks as the explanation for mass layoffs. This mode of telling suggests some greater reason that would explain why things are as they are.
+
+The clip below captures both the “episodic” and the “thematic” frame as they appear in the political campaign speeches of several candidates in the 2012 presidential election.
+
+* ⏯️ [Episodic and Thematic Frames](https://www.youtube.com/watch?v=R6K6SHsZyIs&t)
+
+  
+  
+
+
 
 
 
