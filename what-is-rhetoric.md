@@ -5,7 +5,7 @@ The first thing to understand is how the word *rhetoric* is used in courses such
 
 
 ## Specialized Definitions of Rhetoric
-People who study and analyze rhetoric use the term more broadly, encompassing more communicative situations than the (usually) negative ones that the common use of rhetoric assumes. In fact, it seems [that are as many definitions of rhetoric as there are rhetorical theorists and teachers in courses such as this one](https://open.lib.umn.edu/rhetoricaltheory/back-matter/definitions-of-rhetoric/). Here is a small sample from among many competing definitions, some old, others much more recent:
+People who study and analyze rhetoric use the term more broadly, encompassing more communicative situations than the (usually) negative ones that the common use of rhetoric assumes. In fact, it seems 🔗 [that are as many definitions of rhetoric as there are rhetorical theorists and teachers in courses such as this one](https://open.lib.umn.edu/rhetoricaltheory/back-matter/definitions-of-rhetoric/). Here is a small sample from among many competing definitions, some old, others much more recent:
 
 Rhetoric is….
 * the ability, in each particular case, to see the available means of persuasion—Aristotle
