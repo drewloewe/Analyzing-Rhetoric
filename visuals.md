@@ -88,3 +88,5 @@ As with the previous painting, in “New Kids in the Neighborhood,” Rockwell a
 Rockwell recognized characters in their particularity, this time through a juxtaposition of formal elements in the painting. The “new kids” are personalized based on their contrasting posture (standing straight and leaning forward/back). The color scheme on the left and right sides of the painting is also distinct. The “new neighbors” are dressed in pastels; they are holding a white cat and a baseball glove. The children to the white are drawn in a darker color scheme, one holding a black dog by a leash and another dressed as a baseball player. Gallagher and Zagacki state that the characters strike a “visual balance” and “show the things blacks and whites shared in common, despite racial and other differences."
 
 “New Kids in the Neighborhood” made abstract political concepts knowable. Rockwell visually portrayed a gap between the two groups of children. The disproportion in the numbers of children on each side gives a form to abstract concepts such as equality and material realities, such as housing segregation.
+
+
