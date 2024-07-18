@@ -29,7 +29,7 @@ Here are some explanations that will make these concepts easier to understand:
 * 🔗[*Pulp Fiction* in Chronological Order](https://screenrant.com/pulp-fiction-movie-story-chronological-order/) (Fabula)
 * 🔗 [Two of the Most Important Storytelling Concepts You’ve Never Heard Of](https://thescriptlab.com/blogs/31979-two-of-the-most-important-storytelling-concepts-youve-never-heard-of/)
 
-## Formal and Generic Elements of Narrative
+## Formas
 
 Narratives are also categorized and reshaped by genre or conventions that allow stories to be widely recognizable and appreciated by wide audiences. Genres create a pattern of expectation, such that some of the best stories make us question our expectations of what the characters will do or make us jump with a twist ending. Both “form” and “genre” refer to ways of organizing narrative. So, what is the difference?
 
@@ -44,19 +44,30 @@ Forms can be picked up and then used in a variety of different contexts, creatin
 
 ![Still from *The Killers* and Distracted Boyfriend meme compared by Sylvia Sierra](https://github.com/user-attachments/assets/f859be09-754e-4965-9d6e-c88e3975f572)
 
-When we recognize the similarities between these images, we can see how a similar meaning occurs in very different messages whose creation is separated by several decades. But forms also can create different meanings with the same message. Memes work this way. The image below is of Brittany Broski, the star of the “Kombucha Girl” meme. On the left, Broski’s signature facial expressions carry the captions “We need to have a talk” and  “We need to have a taco.” But this form, the very same image, can carry a different meaning as well.  The image on the left shows Broski’s face both disgusted at climate change and optimistic at the prospect of doing something about it. In this case, “Kombucha Girl” produces a form that creates different meanings using the same message, the same template.
+When we recognize the similarities between these images, we can see how a similar meaning occurs in very different messages whose creation is separated by several decades. But forms also can create different meanings with the same message. Memes work this way. The image below is of Brittany Broski, the star of the “Kombucha Girl” meme. On the left, Broski’s signature facial expressions carry the captions “We need to have a talk” and “We need to have a taco.” But this form, the very same image, can carry a different meaning as well. The image on the right, now putting the meme onto a protest sign, shows Broski’s face both disgusted at climate change and optimistic at the prospect of doing something about it. In this case, “Kombucha Girl” produces a form that creates different meanings in different contexts.
 
 ![Brittney Broski meme and its use on protest sign](https://open.lib.umn.edu/app/uploads/sites/280/2022/01/chapter8kombucha.png)
 
-
-
-Memes, jokes, and a lot of common sayings work the same way.
-
-
-
-
-
 By themselves, forms are ambivalent concerning the ethical or political goals that they serve. Studying form alone cannot tell us which forms are correct or better or worse. They serve a number of different purposes. When analzying forms, we have to pay attention to where and how those forms are being used. The following video offers an excellent example of forms and how they may be picked up, repeated, and recur in many different texts.
+
+## Genres
+
+Genres are names for categories of narratives (and other discourses). Genres emerge when some number of forms appear together as a consistent feature among different narratives. They may also change over time, as different genres sometimes merge to form new categories of common storytelling. For example, 🔗 [“horror-comedy”](https://en.wikipedia.org/wiki/Comedy_horror) and  🔗 [“dramedy”](https://en.wikipedia.org/wiki/Comedy_drama) are recent examples of how distinct genres of narrative have come together.
+
+Genres are constellations of formal elements. They are not identical to forms because they assemble forms and materialize when several different forms cluster together. When we watch ⏯️ [the trailer for *The Shining*](https://www.youtube.com/watch?v=S014oGZiSdI), many formal features come together to create a widely recognizable contribution to the genre of horror films. The music, images of large unoccupied spaces, characters running or limping across the screen with weapons, the voice-over about people in isolation experiencing a mental breakdown, and Jack Nicholson’s changing demeanor all indicate that watching the film will be a frightening experience.
+
+Genres also set audience expectations about coherence and resolution. When we watch a movie that belongs to a certain genre, we have expectations associated with it. When those expectations are violated, different things can happen: we might not enjoy ourselves because the movie isn’t the one we hoped to see. It might create a new genre by blending existing formal elements. Genres also structure the interpretation and reception of public events according to the interests of a dominant culture and ideology. If form describes the interchangeable, repeatable organization of narrative elements, then genres describe a constellation of forms that cluster together to tell stories in recognizable ways.
+
+When the formal elements of a genre are re-configured, they create new kinds of stories.  Below, you’ll find an example of genre expectation violation. Extra-diegetic elements like the music and the narrator’s voice interrupt what we would expect. 
+
+* ⏯️ [Parody Trailer for *The Shining*](https://www.youtube.com/watch?v=-e6d_gzaDgk)
+
+
+
+
+
+
+
 
 
 
