@@ -10,6 +10,7 @@ Each project in this course will ask you to concentrate on particular ideas when
 ## Rhetorical Theory as a Lens
 Think of theory as the lens through which you see—as with all lenses, it brings some items into focus more sharply than others. If you’ve ever been to an optometrist, you are familiar with this device, the phoropter:
 
-![Phoropter Image from Wikimedia Commons](512px-Ambulatório_de_Especialidades_do_Hospital_das_Clínicas_da_Faculdade_de_Medicina_de_Botucatu_(32645824637).jpg)
+![Phoropter Image from Wikimedia Commons](https://github.com/user-attachments/assets/ade63023-4ceb-48f2-b082-c9c63ce0273f)
+
 
 The device allows the patient to see how different lenses affect what and how they see, enabling the patient and optometrist to communicate for the purpose of improving the patient’s sight. Rhetorical theory is a bit like this device; it has many lenses that enable you to see some things more sharply than others. If you change the lens, you change to focus. To use theory is to use a way of seeing, a particular set of productive questions, that help you to notice what you might want to build your analysis and argument around.
