@@ -71,7 +71,7 @@ Let's examine two images of Rockwell paintings from Gallagher and Zagacki’s ar
 
 The first image of the Rockwell painting titled “The Problem We All Live With,” which depicts Ruby Bridges, the first Black child to desegregate Louisiana's all-white William Frantz Elementary School, on her way to her first class in 1960. The girl was escorted to school by four Federal marshals every day for a year and faced mobs screaming slurs at her and other harassment.
 
-![Rockwell's "The Problem We All Live With"](https://www.kennedy-center.org/globalassets/education/resources-for-educators/classroom-resources/artsedge/media/story-behind-the-picture/norman-rockwell---the-problem-we-all-live-with/rockwell-the-problem-we-all-live-with.jpg))
+![Rockwell's "The Problem We All Live With"](https://en.wikipedia.org/wiki/The_Problem_We_All_Live_With#/media/File:The-problem-we-all-live-with-norman-rockwell.jpg)
 
 * First, Rockwell’s style of painting departed from typical ways that Black Americans were represented in editorial cartoons. Whereas a common way of representing diversity was in cartoons and using racist stereotypes, Rockwell painted Bridges and his other subjects as realistic characters in a three-dimensional space. His artwork sought to faithfully render events as they actually transpired in public settings without lampooning or satirizing the subject material. In “The Problem We All Live With,” Rockwell places Bridges on a sidewalk, presumably on her way to school. In the background, the viewer can see the residue of a thrown tomato and a racist slur scrawled on the wall.
 * Second, Rockwell recognized the particularity of his painted subjects: they tell a unique story and stand out from the other characters in the painting. Ruby Bridges is personalized in this image because she is the only figure who is fully within the frame of the picture. Her school materials make a striking contrast with the tomato and the slur, a reminder of the pro-segregationist protests that accompanied her attendance at the school.
@@ -81,7 +81,7 @@ The first image of the Rockwell painting titled “The Problem We All Live With,
 
 The second image is called “New Kids in the Neighborhood,” which depicts a Black family moving into a white suburb.
 
-![Rockwell's "New Kids in the Neighborhood", CC BY-NC-SA 2.0. Image by Peter E.](https://www.flickr.com/photos/pmeimon/6200672880)
+* [Rockwell's "New Kids in the Neighborhood"]([https://artsandculture.google.com/asset/new-kids-in-the-neighborhood-negro-in-the-suburb/VgHfa_a2WaOAuA)](https://vitruvius.museumseven.com/render/600-600@2/dp-281625-22.jpg)
 
 As with the previous painting, in “New Kids in the Neighborhood,” Rockwell again disregarded racist caricatures of Black people by white artists. As noted earlier, his illustrations also depicted the standoffish relationships between Black and white residents at a time when the suburbs were still popularly depicted as populated by an exclusively white middle class.
 
