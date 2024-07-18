@@ -56,7 +56,7 @@ Fifth, visual images possess presence. Presence means that the image has an imme
 
 In visuals, presence can create a sense of "being there"; as Palczewski, et. al. put it, "Visuals may create virtual experiences in a particularly intense way, by making audience members feel as though they were present to witness an event. They offer a direct presentation instead of a discursive description. They can make things that are distant in time or space feel current and close," as in this recent example:
 
-* 🔗 ![Evan Vucci's photo of Donald Trump after assassination attempt](https://en.wikipedia.org/wiki/File:Shooting_of_Donald_Trump.webp)
+* 🔗 [Evan Vucci's photo of Donald Trump after assassination attempt](https://en.wikipedia.org/wiki/File:Shooting_of_Donald_Trump.webp)
 
 ### 6) Visual Culture References Beliefs, Values, and Ideology
 Sixth, visual images are points of common reference that illustrate and depict taken-for-granted beliefs, values, and ideologies of a culture. According to rhetorical scholars Victoria Gallagher and Ken Zagacki, visual images do the work of reflecting the culture that produced them. Some images, like the paintings of Norman Rockwell, have, in their words, “evoke the common humanity of blacks and whites by making visible the abstract forms of civic life in the lived experience of individual citizens, both black and white.” According to Gallaher and Zagacki, Rockwell’s images did the work of reflecting American culture in three ways:
