@@ -57,3 +57,14 @@ Fifth, visual images possess presence. Presence means that the image has an imme
 In visuals, presence can create a sense of "being there"; as Palczewski, et. al. put it, "Visuals may create virtual experiences in a particularly intense way, by making audience members feel as though they were present to witness an event. They offer a direct presentation instead of a discursive description. They can make things that are distant in time or space feel current and close," as in this recent example:
 
 * 🔗 ![Evan Vucci's photo of Donald Trump after assassination attempt](https://en.wikipedia.org/wiki/File:Shooting_of_Donald_Trump.webp)
+
+### 6) Visual Culture References Beliefs, Values, and Ideology
+Sixth, visual images are points of common reference that illustrate and depict taken-for-granted beliefs, values, and ideologies of a culture. According to rhetorical scholars Victoria Gallagher and Ken Zagacki, visual images do the work of reflecting the culture that produced them. Some images, like the paintings of Norman Rockwell, have, in their words, “evoke the common humanity of blacks and whites by making visible the abstract forms of civic life in the lived experience of individual citizens, both black and white.” According to Gallaher and Zagacki, Rockwell’s images did the work of reflecting American culture in three ways:
+
+* Rockwell’s images disregarded established caricatures of Black Americans
+* Rockwell’s images regarded its subjects as human individuals with unique narratives and identities.
+* Rockwell’s images made abstract political concepts like “equality” or “fairness” knowable and concrete.
+
+Let's examine two images from Gallagher and Zagacki’s article using the above listed criteria. The first is titled “The Problem We All Live With,” which depicts Ruby Bridges, the first Black child to desegregate the all-white William Frantz Elementary School on her way to her first class in Louisiana in 1960:
+
+![Rockwell's "The Problem We All Live With"](https://en.wikipedia.org/wiki/The_Problem_We_All_Live_With#/media/File:The-problem-we-all-live-with-norman-rockwell.jpg)
