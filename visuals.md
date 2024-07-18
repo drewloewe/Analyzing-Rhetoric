@@ -65,10 +65,26 @@ Sixth, visual images are points of common reference that illustrate and depict t
 * Rockwell’s images regarded its subjects as human individuals with unique narratives and identities.
 * Rockwell’s images made abstract political concepts like “equality” or “fairness” knowable and concrete.
 
-Let's examine two images from Gallagher and Zagacki’s article using the above listed criteria. The first is titled “The Problem We All Live With,” which depicts Ruby Bridges, the first Black child to desegregate Louisiana's all-white William Frantz Elementary School, on her way to her first class in 1960. The girl was escorted to school by four Federal marshals every day for a year and faced mobs screaming slurs at her.
+Let's examine two images of Rockwell paintings from Gallagher and Zagacki’s article using the above listed criteria. 
+
+** "The Problem We All Live With"** 
+
+The first image of the Rockwell painting titled “The Problem We All Live With,” which depicts Ruby Bridges, the first Black child to desegregate Louisiana's all-white William Frantz Elementary School, on her way to her first class in 1960. The girl was escorted to school by four Federal marshals every day for a year and faced mobs screaming slurs at her and other harassment.
 
 ![Rockwell's "The Problem We All Live With"](https://farm9.staticflickr.com/8090/8539509289_c69c0b6f96_o.jpg)
 
-* First, Rockwell’s style of painting departed from typical ways that Black Americans were represented in editorial cartoons. Whereas a common way of representing diversity was in cartoons and using racist stereotypes, Rockwell painted Bridges and his other subjects as realistic characters in a three-dimensional space. His artwork sought to faithfully render events as they actually transpired in public settings without lampooning or satirizing the subject material. In “The Problem We All Live With,” Rockwell places Bridges on a sidewalk, presumably on her way to school. In the background, the viewer can see the residue of a thrown tomato and a vicious slur on the wall.
+* First, Rockwell’s style of painting departed from typical ways that Black Americans were represented in editorial cartoons. Whereas a common way of representing diversity was in cartoons and using racist stereotypes, Rockwell painted Bridges and his other subjects as realistic characters in a three-dimensional space. His artwork sought to faithfully render events as they actually transpired in public settings without lampooning or satirizing the subject material. In “The Problem We All Live With,” Rockwell places Bridges on a sidewalk, presumably on her way to school. In the background, the viewer can see the residue of a thrown tomato and a racist slur scrawled on the wall.
 * Second, Rockwell recognized the particularity of his painted subjects: they tell a unique story and stand out from the other characters in the painting. Ruby Bridges is personalized in this image because she is the only figure who is fully within the frame of the picture. Her school materials make a striking contrast with the tomato and the slur, a reminder of the pro-segregationist protests that accompanied her attendance at the school.
 * Finally, Rockwell’s image made abstract political concepts such as segregation and equality knowable. Ruby is depicted as “on her way” to a desegregated education, while in reality she was still segregated within the school. Although Ruby represented the political battle over the desegregated classroom, Ruby was not “free” in her learning environment, contained by American racism, law enforcement escorts, and a community that was reluctant to accept her.
+
+** "New Kids in the Neighborhood"** 
+
+The second image is called “New Kids in the Neighborhood,” which depicts a Black family moving into a white suburb.
+
+![Rockwell's "New Kids in the Neighborhood", CC BY-NC-SA 2.0. Image by Peter E.](https://www.flickr.com/photos/pmeimon/6200672880)
+
+As with the previous painting, in “New Kids in the Neighborhood,” Rockwell again disregarded racist caricatures of Black people by white artists. As noted earlier, his illustrations also depicted the standoffish relationships between Black and white residents at a time when the suburbs were still popularly depicted as populated by an exclusively white middle class.
+
+Rockwell recognized characters in their particularity, this time through a juxtaposition of formal elements in the painting. The “new kids” are personalized based on their contrasting posture (standing straight and leaning forward/back). The color scheme on the left and right sides of the painting is also distinct. The “new neighbors” are dressed in pastels; they are holding a white cat and a baseball glove. The children to the white are drawn in a darker color scheme, one holding a black dog by a leash and another dressed as a baseball player. Gallagher and Zagacki state that the characters strike a “visual balance” and “show the things blacks and whites shared in common, despite racial and other differences."
+
+“New Kids in the Neighborhood” made abstract political concepts knowable. Rockwell visually portrayed a gap between the two groups of children. The disproportion in the numbers of children on each side gives a form to abstract concepts such as equality and material realities, such as housing segregation.
