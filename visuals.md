@@ -67,7 +67,7 @@ Sixth, visual images are points of common reference that illustrate and depict t
 
 Let's examine two images of Rockwell paintings from Gallagher and Zagacki’s article using the above listed criteria. 
 
-** "The Problem We All Live With"** 
+**"The Problem We All Live With"** 
 
 The first image of the Rockwell painting titled “The Problem We All Live With,” which depicts Ruby Bridges, the first Black child to desegregate Louisiana's all-white William Frantz Elementary School, on her way to her first class in 1960. The girl was escorted to school by four Federal marshals every day for a year and faced mobs screaming slurs at her and other harassment.
 
@@ -77,7 +77,7 @@ The first image of the Rockwell painting titled “The Problem We All Live With,
 * Second, Rockwell recognized the particularity of his painted subjects: they tell a unique story and stand out from the other characters in the painting. Ruby Bridges is personalized in this image because she is the only figure who is fully within the frame of the picture. Her school materials make a striking contrast with the tomato and the slur, a reminder of the pro-segregationist protests that accompanied her attendance at the school.
 * Finally, Rockwell’s image made abstract political concepts such as segregation and equality knowable. Ruby is depicted as “on her way” to a desegregated education, while in reality she was still segregated within the school. Although Ruby represented the political battle over the desegregated classroom, Ruby was not “free” in her learning environment, contained by American racism, law enforcement escorts, and a community that was reluctant to accept her.
 
-** "New Kids in the Neighborhood"** 
+**"New Kids in the Neighborhood"** 
 
 The second image is called “New Kids in the Neighborhood,” which depicts a Black family moving into a white suburb.
 
@@ -105,13 +105,13 @@ Iconic photographs are widely-circulting images that retain political significan
 * They must be understood as representations of historically significant events.
 * They must be powerful objects of emotional identification and response.
 * They must be regularly reproduced or copied across a range of media.
-First, iconic photographs must be recognized by everyone in a public culture. Each of the photographs marks a specific moment in American public memory. The Flag Raising on Iwo Jima and the Times Square kiss:
+  
+First, iconic photographs must be recognized by everyone in a public culture. Each of the photographs marks a specific moment in American public memory. The Flag Raising on Iwo Jima and the 🔗 [Times Square kiss photo](https://www.life.com/history/v-j-day-kiss-times-square/) are widely recognized as associated with American public culture at the end of WWII because each uses a widely recognized pose to depict American military victory alongside the American flag or iconic American locations like Times Square. The 🔗 [Kent State photograph](https://en.wikipedia.org/wiki/Kent_State_shootings#/media/File:Kent_State_massacre.jpg), depicting student resistance against military force in Vietnam that resulted in military violence against students, similarly captures a widely recognizable moment that lasts well beyond the moment when the photograph was taken.
 
-![V-J Day in Times Square by Alfred Eisenstaedt](https://en.wikipedia.org/wiki/V-J_Day_in_Times_Square#/media/File:Legendary_kiss_V%E2%80%93J_day_in_Times_Square_Alfred_Eisenstaedt.jpg)
+Second, iconic photographs must be understood as representations of historically significant events. As artifacts of American public culture, both “Flag-raising at Iwo Jima” and “V-J Day in Times Square” are representations of wartime victory or post-war celebration that clearly mark the end of WWII. The Kent State photograph is widely recognized as a representation of American culture and student resistance during the Vietnam War.
 
+Third, they must depict objects of strong emotional identification and response. The “ideas” depicted in each of the photographs are highly charged, emotionally. Each represents a kind of emotional release, the enthusiasm that comes with collective victory and success, the joy of being reunited with a loved one, the grief, and anger that accompanies the taking of innocent life. In each case, the emotions are high key and prominent to the viewer. 🔗 [Dorothea Lange's "Migrant Mother"](https://www.moma.org/collection/works/50989) shows a migrant farmworker and three of her children in a tent at a workers' camp during the Depression and evokes strong identification with the family's desperation. 
 
-are widely recognized as associated with American public culture at the end of WWII because each uses a widely recognized pose to depict American military victory alongside the American flag or iconic American locations like Times Square. The Kent State photograph, depicting student resistance against military force in Vietnam that resulted in military violence against students, similarly captures a widely recognizable moment that lasts well beyond the moment when the photograph was taken:
+Finally, they must be regularly reproduced or copied across a range of media. Part of what contributes to the recognizability of the photographs is the fact that they have been so widely circulated, reproduced, and parodied, as in these examples:
 
-![John Filo's Pulitzer Prize–winning photograph of Mary Ann Vecchio kneeling over the dead body of Jeffrey Miller minutes after the unarmed student was fatally shot by an Ohio National Guardsman](https://en.wikipedia.org/wiki/Kent_State_shootings#/media/File:Kent_State_massacre.jpg)
-
-
+![V-J Day in Times Square painting by Kobra. Image by B. de los Arcos. CC BY-NC 2.0] (https://open.lib.umn.edu/app/uploads/sites/280/2022/01/chapter9kissing.jpg) 
