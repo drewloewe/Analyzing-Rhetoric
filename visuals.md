@@ -102,6 +102,8 @@ Finally, the United States is a visual culture because visual forms of communica
 
 Our visual culture is modeled after written culture, but it creates new, relational forms of communication and gives us new ways of relating to one another. The ultimate purpose of understanding the specific pattern of meanings and symbols that we use in our time, and how these unique forms of meaning-making also are generative of who we call our family, our friends, and our communities.
 
+❓In your own words, describe the seven elements of visual culture in the U.S., with your own examples. What about visual culture in other countries or cultures with which you are familiar?
+
 ## Genres of Visual Rhetoric
 
 Although the rhetoric of visual culture changes dramatically over time, rhetoricans have pointed to several different kinds of visual rhetoric that shape Americans’ popular and political beliefs. These include **iconic photographs**, **body rhetoric**, **monumental rhetoric**, and **image events**.
@@ -137,6 +139,8 @@ Finally, iconic images must be regularly reproduced or copied across a range of 
 
 ![Reddit Past and Present Pics post about Kent State Photo, user HBScott1961](https://github.com/user-attachments/assets/3e311208-228a-4b0e-8700-34e141da77b8)
 
+❓Come up with your own examples of iconic photographs.
+
 ## Body Rhetoric and Enactment
 According to Palczewski, et. al., **body rhetoric** tries to capture the impact the human body has on the messages that it communicates: “Who says a message and how a body is made present communicate as much as what is said.” Body rhetoric is rhetoric that foregrounds the body as part of the symbolic act. Enactment occurs when the person engaging in symbolic action functions as proof of the argument they advance.
 
@@ -147,6 +151,8 @@ According to Palczewski, et. al., **body rhetoric** tries to capture the impact 
 The photo above as taken on the day of Brett Kavanaugh’s confirmation to the Supreme Court in 2018. Kavanaugh was confirmed to the Supreme Court after a number of women, including Dr. Christine Blasey-Ford, testified that Kavanaugh had sexually assaulted them. During the protests around Kavanaugh's confirmation, body rhetoric, or rhetoric that foregrounds the body as part of the symbolic act, occured when the crowd of protestors gave public anger a communicable form. Following the vote that confirmed him and just before his swearing-in, a contingent of protesters descended on the Supreme Court. Bodies poured onto the stairs with chants such as “Whose Court? Our Court” and “Arrest Sexual Predators, Not Protesters.” 
 
 The second way that body rhetoric occurred during this event was as enactment, as protesters used their own bodies as examples of what they were protesting. Occupying the prohibited stairways and chanting through the swearing-in, this protest was capped by the 🔗 [Alex Wong's photo](https://media.npr.org/assets/img/2018/10/06/gettyimages-1046730162metoo_wide-622af69a959f1b26c286479f1d648612ec0455f8-s800-c85.webp) of a woman who climbed the statue titled “Contemplation of Justice," sat in her lap, and held up a fist and a small handwritten sign reading “#MeToo.” 
+
+❓Come up with your own examples of body rhetoric and enactment.
 
 ## Monumental Rhetoric
 
@@ -172,6 +178,7 @@ Rhetorical scholar and analyst Joshua Gunn calls the commemoration of 9/11 “a 
 
 As an example of monumental rhetoric, the memorial offers us a version of the past, present, and future which are captured in the intentional design of the monument as well as the kind of experiences that can be had by people who pass through it. As a reminder of the past, it tells us about the tragedy of the towers’ destruction, as well as who was lost in the event. As a monument suited to present-day concerns, it allows visitors to remember, express grief, and see their own reflections in the lists of names. As a vision of the possible future, it seeks to communicate a sense of loss as a reminder and warning for what might come next.
 
+❓Come up with your own examples of monumental rhetoric—without referring to the Alamo.
 
 ## Image Events
 
@@ -185,6 +192,8 @@ If we were to compare the tactics of Greenpeace to say, the ⏯️ [television s
 
 Sometimes, image events are co-opted for other purposes, as in the infamous ⏯️ [Pepsi Cola commercial starring Kendall Jenner](https://www.youtube.com/watch?v=uwvAgDCOdU4), which was quickly ⏯️ [parodied by *Saturday Night Live*](https://www.youtube.com/watch?v=Pn8pwoNWseM&t=9s), or 🔗 [tobacco companies' efforts in the early '90s to create a fake 
 "grassroots" campaign to fight the smoking ban on airplanes](https://www.industrydocuments.ucsf.edu/tobacco/docs/#id=slbf0114). 
+
+❓Come up with your own examples of image events.
 
 ## Reviewing the Genres of Visual Rhetoric
 * An iconic photograph can take many forms, but it would not be something with personal meaning like a family photograph, a random picture of a politician in front of a well-known building, or a well-taken picture of a monument at sunset. It must be published and circulated; it must be well-recognized as commemorating a historical moment or event. However, the meaning of an iconic photograph isn’t an image where everyone agrees on what it means. Instead, it’s possible that people forget what it means, and for people to remake its commonly accepted meaning.
