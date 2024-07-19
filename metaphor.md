@@ -1,5 +1,9 @@
 ## What is Metaphor? Isn't it Just Pretty Language?
-Unlike terms such as rhetoric and ideology, common uses of the term metaphor aren’t necessarily weighed down by negative associations. Most of us have been taught that a metaphor is a kind of vivid presentation in language where we are prompted to think of one thing in terms of another. Way back in the day, Aristotle offered this explanation of metaphor: "Now strange words simply puzzle us; ordinary words convey only what we know already; it is from metaphor that we can best get hold of something fresh. When the poet calls 'old age a withered stalk,' he conveys a new idea, a new fact, to us by means of the general notion of bloom, which is common to both things." This transfer of ideas from one thing to another (both plants and people bloom, grow, decay, and wither) can be seen in common expressions such as “my roommate is a pig" (example is from Sonja Foss). Assuming that your roommate’s species is *Homo sapiens* and not *Sus scrofa domesticus,* the metaphor prompts your audience to see the human being in light of the disorderly, dirty behavior of a pig. 
+Unlike terms such as rhetoric and ideology, common uses of the term metaphor aren’t necessarily weighed down by negative associations. Most of us have been taught that a metaphor is a kind of vivid presentation in language where we are prompted to think of one thing in terms of another. Way back in the day, Aristotle offered this explanation of metaphor:
+
+>> "Now strange words simply puzzle us; ordinary words convey only what we know already; it is from metaphor that we can best get hold of something fresh. When the poet calls 'old age a withered stalk,' he conveys a new idea, a new fact, to us by means of the general notion of bloom, which is common to both things.
+
+This transfer of ideas from one thing to another (both plants and people bloom, grow, decay, and wither) can be seen in common expressions such as “my roommate is a pig" (example is from Sonja Foss). Assuming that your roommate’s species is *Homo sapiens* and not *Sus scrofa domesticus,* the metaphor prompts your audience to see the human being in light of the disorderly, dirty behavior of a pig. 
 
 ❓What other everyday examples of metaphors can you think of?
 
@@ -22,12 +26,16 @@ Some common conceptual metaphors that L&J use as examples are:
 
 ## Why Metaphors Matter
 If metaphor fundamentally structures our thought and expression, it can be a powerful means of structuring experience and thus of enormous interest to rhetorical analysts interested in communication and its implications. What happens if you tweak the source domain? Consider these hypotheticals from Lakoff and Johnson:
-		 * ARGUMENT (target) AS WAR (source)
-		 * ARGUMENT (target) as DANCE (source)
+
+* ARGUMENT (target) AS WAR (source)
+* ARGUMENT (target) as DANCE (source)
+
 War implies aggression, attack and defense, and an orientation toward defeating or killing the enemy. Dance implies cooperation, coordination, and an orientation toward an experience that benefits both partners. The activity of arguing looks a lot different under these two different conceptual metaphors.
 Suzette Haden Elgin, a linguist and science fiction writer, offered another example:
-		 * LIFE (target) AS A FOOTBALL GAME (source)
-		*  LIFE (target) AS A TRADITIONAL SCHOOLROOM (source)
+
+* LIFE (target) AS A FOOTBALL GAME (source)
+* LIFE (target) AS A TRADITIONAL SCHOOLROOM (source)
+  
 Again, what is encouraged, expected, or rewarded on a football field versus a traditional schoolroom? Who is empowered, required, or encouraged to do what, in what way, by the metaphor? What counts as good or bad in each metaphor's conceptual universe and value system? Make a list and compare the two scenarios. As rhetoric scholar Benjamin Bates puts it, “Metaphor is not a simple substitution of one term for another, but a way of creating a powerful perceptual link between the two things.”
 
 ❓What examples can you think of where “powerful perceptual links” were created with important consequences for multiple groups of people? Here is a partial list to get you started:
@@ -43,6 +51,7 @@ Again, what is encouraged, expected, or rewarded on a football field versus a tr
 * “We are the Storm”
   
 Metaphor can be a powerful index to the overall vision of how a rhetor creates and suggest attitudes, actions, and associations—for good and for ill. The rhetorical analyst examining metaphor is working with some of the most fundamental and important considerations of how ideas circulate. As scholar and theorist Wayne Booth urged:
+
 >> To understand a metaphor is by its very nature to decide whether to join the metaphorist or reject him, and that is simultaneously to decide either to be shaped in the shape his metaphor requires or to resist. … In this perspective, criticism of metaphoric worlds, or visions, becomes one clear and important-perhaps the clearest and most important-instance of a general human project of improving life by criticizing it.
 
 Similarly, Bates argues that when a rhetor selects a particular source domain, "the rhetor is attempting to activate a cluster of associations so that the [audience] comes to understand the unfamiliar phenomenon in a way preferred by the rhetor."
