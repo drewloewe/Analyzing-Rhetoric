@@ -5,11 +5,13 @@
 ## What is Theory's Role?
 It's probably not suprising—given the contested, contextual nature of rhetoric itself—that there has been a lot of debate about how rhetorical analysis is supposed to be done. To paraphrase an old joke about Jesuits, if you have two rhetorical analysts on an issue, you'll have four opinions. 
 
-One debate is about **the role of rhetorical theory**: to what extent does theory determine, or even constrain, what the analyst argues? Is the theory a machine for generating insights? If so, does that make theory a mere cookie cutter that produces the same predictable results no matter what it's applied to? If so, yuck. 
+One debate is about **the role of rhetorical theory**: to what extent does theory determine, or even constrain, what the analyst argues? Is the theory a machine for generating insights? If so, does that make theory a mere cookie cutter that produces the same predictable results no matter what it's applied to? If so, analysis is not really worth doing. 
 
-What about the fact that **different analysts, with different theories, might produce different readings** of a particular artifact? Does that make rhetorical theory arbitrary? You say X because your theory predisposes you to, I say Y because my theory predisposes me to, and we both shrug because there is "no right answer"? If so, yuck again.
+What about the fact that **different analysts, with different theories, might produce different readings** of a particular artifact? Does that make rhetorical theory arbitrary? You say X because your theory predisposes you to, I say Y because my theory predisposes me to, and we both shrug because there is "no right answer"? If so, analysis is again probably not worth the effort. 
 
 And, **even if an analyst really wants to work with an artifact itself without carrying the burdens or obligations of particular theories, how exactly are they supposed to do that?** It's this last debate that we'll focus on this section.
+
+❓How have you been taught, if at all, to do rhetorical analysis? What was the role of theory or concepts in that analysis?
 
 ## The Two Michaels: the Leff vs. McGee Debate
 
@@ -17,7 +19,7 @@ Two influential rhetorical analysts, coincidentally both named Michael, exemplif
 
 >>While the critic must frame the discourse within its context, the focus of attention [should] center[] on the text itself and the rhetorical features embedded within it. Working from the evidence within the text, the critic proceeds to make inferences about what the work is designed to do, how it is designed to do it, and how well that design functions to structure and transmit meanings within the realm of public experience.
 
-So both Leff and McGee want to focus primarily on the artifact and don't want to use theory to pigeonhole or process artifacts in a mechanistic or predetermined way. But they diverge in a few ways.
+So both Leff and McGee want to focus primarily on the artifact and don't want to use theory to merely pigeonhole or process artifacts in a mechanistic or predetermined way. But they diverge in a few ways.
 
 Leff argued that it was possible to draw reasonably stable boundaries around a rhetorical artifact, such as a famous political speech, such that an analyst could work primarily with the text of the speech itself and pay relatively less attention to elaborating context or the effects the speech had. Leff did not argue that context was irrelevant, but wanted analysts to focus mostly on the artifact itself. 
 
