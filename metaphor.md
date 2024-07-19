@@ -1,3 +1,4 @@
+# Rhetoric and Metaphor
 ## What is Metaphor? Isn't it Just Pretty Language?
 Unlike terms such as rhetoric and ideology, common uses of the term metaphor aren’t necessarily weighed down by negative associations. Most of us have been taught that a metaphor is a kind of vivid presentation in language where we are prompted to think of one thing in terms of another. Way back in the day, Aristotle offered this explanation of metaphor:
 
