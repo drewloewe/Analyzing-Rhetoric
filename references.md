@@ -1,4 +1,4 @@
-# References
+# 16. References
 
 **Note to students:** These references are in MLA format. They are not presented in the hanging indent that MLA Works Cited pages require because I can't figure out how to mark that up in Markdown, the markup convention that guides GitHub projects. If you want to find out how to make a hanging indent in Word or Google Docs, just Google the question.
 
