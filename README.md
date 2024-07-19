@@ -23,7 +23,7 @@ See References below for citations to original sources whose ideas or words are 
 * [Rhetoric and Visuals](visuals.md)
 * [Rhetoric and Metaphor](metaphor.md)
 * Rhetoric and Emotional Appeals
-* Rhetoric and Ideology
+* [Rhetoric and Ideology](ideology.md)
 
 ### Integrating Sources
 * [Integrating Sources](integrating-sources.md)
