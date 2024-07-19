@@ -1,4 +1,4 @@
-# Key Terms 
+# 3. Key Terms 
 
 ## Rhetor
 
