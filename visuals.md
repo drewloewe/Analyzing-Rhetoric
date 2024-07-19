@@ -89,4 +89,29 @@ Rockwell recognized characters in their particularity, this time through a juxta
 
 “New Kids in the Neighborhood” made abstract political concepts knowable. Rockwell visually portrayed a gap between the two groups of children. The disproportion in the numbers of children on each side gives a form to abstract concepts such as equality and material realities, such as housing segregation.
 
+### 7) Visual Culture is Immersive
+
+Finally, the United States is a visual culture because visual forms of communication surround us, appearing in multiple outlets all at once. According to anthropologist Clifford Geertz, "culture is the historically transmitted pattern of meanings embodied in symbols.” In this case, these symbols are visual and work with the verbal to construct a familiar world of meanings that gives us a sense of security. ⏯️ [The popular 2012 film *The Avengers*](https://www.youtube.com/watch?v=nlePrq8ddPQ), for instance, depicts a transformed and futuristic military as desirable, transforming the popular Marvel superhero franchise into a positive depiction of the military as morally righteous and technologically sublime.
+
+Our visual culture is modeled after written culture, but it creates new, relational forms of communication and gives us new ways of relating to one another. The ultimate purpose of understanding the specific pattern of meanings and symbols that we use in our time, and how these unique forms of meaning-making also are generative of who we call our family, our friends, and our communities.
+
+## Genres of Visual Rhetoric
+Although the rhetoric of visual culture changes dramatically over time, rhetoricans have pointed to several different kinds of visual rhetoric that shape Americans’ popular and political beliefs. These include **iconic photographs**, **body rhetoric**, **monumental rhetoric**, and **image events**.
+
+### Iconic Photographs
+Iconic photographs are widely-circulting images that retain political significance in a visual culture. They are made famous because they commemorate a specific moment in time and symbolize the values of the public that it represents. Iconic photographs have four key features:
+
+* They must be recognized by everyone.
+* They must be understood as representations of historically significant events.
+* They must be powerful objects of emotional identification and response.
+* They must be regularly reproduced or copied across a range of media.
+First, iconic photographs must be recognized by everyone in a public culture. Each of the photographs marks a specific moment in American public memory. The Flag Raising on Iwo Jima and the Times Square kiss:
+
+![V-J Day in Times Square by Alfred Eisenstaedt](https://en.wikipedia.org/wiki/V-J_Day_in_Times_Square#/media/File:Legendary_kiss_V%E2%80%93J_day_in_Times_Square_Alfred_Eisenstaedt.jpg)
+
+
+are widely recognized as associated with American public culture at the end of WWII because each uses a widely recognized pose to depict American military victory alongside the American flag or iconic American locations like Times Square. The Kent State photograph, depicting student resistance against military force in Vietnam that resulted in military violence against students, similarly captures a widely recognizable moment that lasts well beyond the moment when the photograph was taken:
+
+![John Filo's Pulitzer Prize–winning photograph of Mary Ann Vecchio kneeling over the dead body of Jeffrey Miller minutes after the unarmed student was fatally shot by an Ohio National Guardsman](https://en.wikipedia.org/wiki/Kent_State_shootings#/media/File:Kent_State_massacre.jpg)
+
 
