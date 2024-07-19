@@ -81,7 +81,7 @@ The first image of the Rockwell painting titled “The Problem We All Live With,
 
 The second image is called “New Kids in the Neighborhood,” which depicts a Black family moving into a white suburb.
 
-* ![Rockwell's "New Kids in the Neighborhood"](https://vitruvius.museumseven.com/render/600-600@2/dp-281625-22.jpg)
+![Rockwell's "New Kids in the Neighborhood"](https://vitruvius.museumseven.com/render/600-600@2/dp-281625-22.jpg)
 
 As with the previous painting, in “New Kids in the Neighborhood,” Rockwell again disregarded racist caricatures of Black people by white artists. As noted earlier, his illustrations also depicted the standoffish relationships between Black and white residents at a time when the suburbs were still popularly depicted as populated by an exclusively white middle class.
 
@@ -114,4 +114,6 @@ Third, they must depict objects of strong emotional identification and response.
 
 Finally, they must be regularly reproduced or copied across a range of media. Part of what contributes to the recognizability of the photographs is the fact that they have been so widely circulated, reproduced, and parodied, as in these examples:
 
-![V-J Day in Times Square painting by Kobra. Image by B. de los Arcos. CC BY-NC 2.0] (https://open.lib.umn.edu/app/uploads/sites/280/2022/01/chapter9kissing.jpg) 
+![V-J Day in Times Square painting by Kobra. Image by B. de los Arcos. CC BY-NC 2.0](https://open.lib.umn.edu/app/uploads/sites/280/2022/01/chapter9kissing.jpg) 
+
+🔗 [Variants of Lange Photo found on Dorothea Lange Digital Archive site](https://dorothealange.museumca.org/image/poverty-is-a-crime-and-our-people-are-the-victims-black-panther-party-newspaper-with-migrant-mother-variant/2016.0.2a/)
