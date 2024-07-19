@@ -5,6 +5,8 @@ This is an undergraduate textbook for analyzing rhetoric used at St. Edward's Un
 
 See References below for citations to original sources whose ideas or words are borrowed or adapted in this resource. Unless otherwise indicated, third-party texts, images, and other materials quoted in this resource are included on the basis of fair use as described in the 🔗 [Code of Best Practices for Fair Use in Open Education](https://cmsimpact.org/code/open-educational-resources/) or under a 🔗 [Creative Commons license](https://creativecommons.org/share-your-work/cclicenses/).
 
+GitHub rocks. 🎸 🤘
+
 ## Contents
 
 ### Getting Started
