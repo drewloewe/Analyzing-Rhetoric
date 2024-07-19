@@ -117,3 +117,5 @@ Finally, they must be regularly reproduced or copied across a range of media. Pa
 ![V-J Day in Times Square painting by Kobra. Image by B. de los Arcos. CC BY-NC 2.0](https://open.lib.umn.edu/app/uploads/sites/280/2022/01/chapter9kissing.jpg) 
 
 🔗 [Variants of Lange Photo found on Dorothea Lange Digital Archive site](https://dorothealange.museumca.org/image/poverty-is-a-crime-and-our-people-are-the-victims-black-panther-party-newspaper-with-migrant-mother-variant/2016.0.2a/)
+
+🔗 [Reddit Past and Present Pics post about Kent State Photo](https://www.reddit.com/r/PastAndPresentPics/comments/mv25si/mary_ann_vecchio/#lightbox)
