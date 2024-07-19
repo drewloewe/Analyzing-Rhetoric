@@ -30,7 +30,9 @@
 - Fontana, Benedetto. "The Democratic Philosopher: Rhetoric as Hegemony in Gramsci." *Italian Culture*, vol. 23, 2005, pp. 97-123.
 - Foss, Sonja K. *Rhetorical Criticism: Exploration and Practice*, 5th ed., 2018.
 - Fulkerson, Richard. "Technical Logic, Comp-Logic, and the Teaching of Writing." *College Composition and Communication* vol. 39, no. 4. 1988, pp. 436-452.
+- Gallagher, Victoria, and Kenneth S. Zagacki. “Visibility and Rhetoric: The Power of Visual Images in Norman Rockwell’s Depictions of Civil Rights.” *Quarterly Journal of Speech* vol. 91, no. 2, 2005, pp. 175-200.
 - Gent, Whitney, Emily Sauter, and Daniel Cronn-Mills. "Validity and the Art of Rhetorical Criticism." *Annals of the International Communication Association*, vol 44, no. 3, 2020, pp. 201-209.
+- Gunn, Joshua. “Mourning Speech: Haunting and the Spectral Voices of Nine Eleven.” *Text and Performance Quarterly* vol. 24, no. 2, 2004, pp. 91-114.
 - Hallsby, Atilla. [*Reading Rhetorical Theory*](https://open.lib.umn.edu/rhetoricaltheory/). University of Minnesota Libraries Publishing, 2022. CC-BY-NC 4.0. 
 - Harker, Michael. "The Ethics of Argument: Rereading Kairos and Making Sense in a Timely Fashion." *College Composition and Communication*, vol. 59, no. 1, 2007, pp. 77-97.
 - Integrating Sources. *Harvard Guide to Using Sources*, 2024. Harvard College Writing Program, 2024, [https://usingsources.fas.harvard.edu/sites/projects.iq.harvard.edu/files/sources/files/integrating_sources.pdf](https://usingsources.fas.harvard.edu/sites/projects.iq.harvard.edu/files/sources/files/integrating_sources.pdf).
@@ -53,6 +55,7 @@
 - Miller, Carolyn R. “Genre as Social Action.” *Quarterly Journal of Speech*, vol. 70, no. 2, May 1984, pp. 151–67.
 - ---. “Genre as Social Action (1984), Revisited 30 Years Later (2014).” *Letras & Letras*, vol. 31, no. 3, June 2015, pp. 56–72.
 - ---. “Exercising Genres: A Rejoinder to Anne Freadman.” *Discourse and Writing/Rédactologie*, vol. 30, Aug. 2020, pp. 133–40.
+- Palczewski, Catherine Helen, et al. *Rhetoric in Civic Life*. Strata Pub., 2012.
 - Ratcliffe, Krista. “In Search of the Unstated: The Enthymeme and/of Whiteness.” *JAC*, vol. 27, no. 1/2, 2007, pp. 275–90.
 - Richards, I.A. *The Philosophy of Rhetoric*. Oxford University Press, 1965.
 - Shepherd, Michael, and Carolyn Watters. "The Evolution of Cybergenres." *Proceedings of the Thirty-First Hawaii International Conference on System Sciences*. Vol. 2. IEEE, 1998.
