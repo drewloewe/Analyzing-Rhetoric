@@ -1,4 +1,4 @@
-# Why Learn Rhetorical Analysis?
+# 2. Why Learn Rhetorical Analysis?
 
 This is a course in rhetorical analysis. It’s right there in the title: “Analyzing Rhetoric.” As a quick Google search will show, college courses in rhetorical analysis are common. Courses that have some assignment requiring rhetorical analysis, even if fairly simple, are even more common. And as more sustained research will show, people have been teaching, learning, and practicing rhetorical analysis for a very long time. For instance, in Ancient Greece and Rome, to be educated was to be prepared for participation in civic life; thus, learning rhetoric (including some parts of what we might call rhetorical analysis today) was essential. But why should you, here in the 21st century, learn to analyze rhetoric? To be educated is to be open to the possibility of being changed in some way. So what kind of person might you become if you learn rhetorical analysis?
 ## The Weak Defense 
