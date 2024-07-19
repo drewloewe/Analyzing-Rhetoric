@@ -17,6 +17,7 @@ Compare and contrast how these two videos use a lot of the same forms but for di
 * ⏯️ [*The Stepford Wives* 2004 remake trailer](https://www.youtube.com/watch?v=SuAADocdVn0)
 
 ### 2) Visual and Verbal Rhetorics Work Together in Visual Culture
+
 The second way that the contemporary United States is a visual culture is that visual and verbal rhetoric work in conjunction with one another. A number of experts from a various fields have said that there are significant differences between “visual” and “verbal” culture. Some have also argued that we are moving away from a primarily “verbal” (or literate) culture, defined by the circulation of information-as-words, and toward a “visual” culture in which we prize photographs and moving images as ways of digesting and retaining knowledge. The technologies available to us today make us multi-literate, rather than illiterate. For anyone who’s ever had to explain how to use the computer, TV remote, or phone to a relative — or who have had to ask others for this kind of help — it’s clear that the kind of "literacy" that more recent generations have isn’t less valid than the predominantly written cultures of the 20th century.
 
 This new visual AND verbal literacy has generated its own languages; one example being the pictograms we use to communicate today. Emojis, for instance, allow us to easily communicate that we are “running late” 🏃⏱️, that it’s “party time” 🥳 ⏰, or wish someone “good luck" 👍 🍀.  But we can also imagine that these patterns of symbols would be mystifying for someone who was not always enculturated to know them.
@@ -30,14 +31,15 @@ Visual culture elevates presentational symbolism because it tries to simulate th
 
 Presentational symbolism also “produce a simultaneous impression of many elements,” or a **gestalt**. Images multiply and proliferate. They also become increasingly complex, representing increasing magnitudes of data. An example of this kind of presentational symbolism is the graphic representation of populations, like this map below illustrates the “big picture” of viral outbreaks in the United States as a presentation of reality that relies on a simultaneous impression of many elements.
 
+**Coronavirus Outbreak Map**
+
 ![Coronavirus Outbreak Map](https://open.lib.umn.edu/app/uploads/sites/280/2022/01/screenshot-of-gestalt-data-of-covid-outbreak-in-US.png)
 
 ### 4) Visual Culture is Where Rhetorical Reading Happens
 
 Visual culture is the site of **dominant**, **negotiated**, and **oppositional** readings. These key terms describe how we interpret the visual rhetoric we encounter and create new visual rhetorics in response.
 
-
-* The dominant reading is the preferred, taken-for-granted, hegemonic reading. In a dominant reading, the viewer takes the connoted meeting, and operates in the dominant code. Depicted below is the famous “Flag Raising on Iwo Jima.” It is also an example of an “iconic photograph.” The most literal, hegemonic interpretation of the image is as a celebration of American teamwork in service of the shared goal of U.S. military victory. This is a dominant reading of this image. According to Palczewski et.al., “by recognizing and accepting these connotations, we participate in a dominant reading, in which what this means for the United States culturally is accepted and goes unchallenged.”
+The dominant reading is the preferred, taken-for-granted, hegemonic reading. In a dominant reading, the viewer takes the connoted meeting, and operates in the dominant code. Depicted below is the famous “Flag Raising on Iwo Jima.” It is also an example of an “iconic photograph.” The most literal, hegemonic interpretation of the image is as a celebration of American teamwork in service of the shared goal of U.S. military victory. This is a dominant reading of this image. According to Palczewski et.al., “by recognizing and accepting these connotations, we participate in a dominant reading, in which what this means for the United States culturally is accepted and goes unchallenged.”
   
 **Iwo Jima flag image**
 ![Iwo Jima flag image](https://open.lib.umn.edu/app/uploads/sites/280/2022/01/flag-raising-on-iwo-jima.png)
