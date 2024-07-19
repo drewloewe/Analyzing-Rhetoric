@@ -1,4 +1,4 @@
-# Advice to Beginning Rhetorical Analysts
+# 7. Advice to Beginning Rhetorical Analysts
 
 This advice is derived from my work with students in this class over many years and from online resources developed by BYU's Writing Center and by Prof. Patricia Roberts-Miller, emerita professor at UT Austin. It also draws on a 2020 article by Whitney Gent, Emily Sauter, and Daniel Cronn-Mills (see References).
 
