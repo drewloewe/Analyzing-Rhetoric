@@ -112,10 +112,13 @@ Second, iconic photographs must be understood as representations of historically
 
 Third, they must depict objects of strong emotional identification and response. The “ideas” depicted in each of the photographs are highly charged, emotionally. Each represents a kind of emotional release, the enthusiasm that comes with collective victory and success, the joy of being reunited with a loved one, the grief, and anger that accompanies the taking of innocent life. In each case, the emotions are high key and prominent to the viewer. 🔗 [Dorothea Lange's "Migrant Mother"](https://www.moma.org/collection/works/50989) shows a migrant farmworker and three of her children in a tent at a workers' camp during the Depression and evokes strong identification with the family's desperation. 
 
-Finally, they must be regularly reproduced or copied across a range of media. Part of what contributes to the recognizability of the photographs is the fact that they have been so widely circulated, reproduced, and parodied, as in these examples:
+Finally, they must be regularly reproduced or copied across a range of media. Part of what contributes to the recognizability of the photographs is the fact that they have been so widely circulated, reproduced, and parodied, as in these three examples:
 
+**V-J Day in Times Square painting by Kobra. Image by B. de los Arcos. CC BY-NC 2.0**
 ![V-J Day in Times Square painting by Kobra. Image by B. de los Arcos. CC BY-NC 2.0](https://open.lib.umn.edu/app/uploads/sites/280/2022/01/chapter9kissing.jpg) 
 
+**Variants of Lange Photo found on Dorothea Lange Digital Archive site**
 🔗 [Variants of Lange Photo found on Dorothea Lange Digital Archive site](https://dorothealange.museumca.org/image/poverty-is-a-crime-and-our-people-are-the-victims-black-panther-party-newspaper-with-migrant-mother-variant/2016.0.2a/)
 
+**Reddit Past and Present Pics post about Kent State Photo, user HBScott1961**
 ![Reddit Past and Present Pics post about Kent State Photo, user HBScott1961](https://github.com/user-attachments/assets/3e311208-228a-4b0e-8700-34e141da77b8)
