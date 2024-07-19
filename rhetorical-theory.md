@@ -1,4 +1,4 @@
-# What is Rhetorical Theory?
+# 4. What is Rhetorical Theory?
 
 ## Rhetorical Theory as Useful Tools
 “Rhetorical theory” may sound strange or opaque, but it really boils down to this: rhetorical theory is a body of concepts that have proven useful (in some cases, for a very long time) in understanding what happens when people try to communicate with one another—what choices they make; what resources they draw upon; how much they can take for granted that the audience already accepts; what risks they take; how the particular occasion, genre, or medium shapes the message; and other such concerns. While each communication situation is particular, it’s also true that situations, roles of rhetors and audiences, and occasions recur across time. Indeed, that’s one way that rhetorical efforts are understandable at all: they use both the recurring and the unique. Rhetorical theory offers us useful tools to help us understand particular rhetorical occasions and rhetorical problems more generally.
