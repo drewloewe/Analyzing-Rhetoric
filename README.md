@@ -21,7 +21,7 @@ See References below for citations to original sources whose ideas or words are 
 * [Rhetoric and Close Textual Analysis](close-textual-analysis.md)
 * [Rhetoric and Narrative](narrative.md)
 * [Rhetoric and Visuals](visuals.md)
-* Rhetoric and Metaphor
+* [Rhetoric and Metaphor](metaphor.md)
 * Rhetoric and Emotional Appeals
 * Rhetoric and Ideology
 
