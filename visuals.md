@@ -38,15 +38,17 @@ Visual culture is the site of **dominant**, **negotiated**, and **oppositional**
 
 
 * The dominant reading is the preferred, taken-for-granted, hegemonic reading. In a dominant reading, the viewer takes the connoted meeting, and operates in the dominant code. Depicted below is the famous “Flag Raising on Iwo Jima.” It is also an example of an “iconic photograph.” The most literal, hegemonic interpretation of the image is as a celebration of American teamwork in service of the shared goal of U.S. military victory. This is a dominant reading of this image. According to Palczewski et.al., “by recognizing and accepting these connotations, we participate in a dominant reading, in which what this means for the United States culturally is accepted and goes unchallenged.”
-
+**Iwo Jima flag image**
   ![Iwo Jima flag image](https://open.lib.umn.edu/app/uploads/sites/280/2022/01/flag-raising-on-iwo-jima.png)
 
 * A negotiated reading is where the viewer accepts some of the taken-for-granted meanings but recognizes exceptions. They understand what the image depicts, but challenge what it means. Depicted below is public artwork from Sydney, Australia that shows soldiers raising a McDonald’s sign rather than the flag. Like the original photograph, the image denotes a kind of military “victory,” but one that ultimately supports America as the land of capitalist corporations rather than as upholding civic virtue. The negotiated reading allows some of the photograph’s original meanings to be accepted — the denotation of American victory — while others are challenged — replacing nationalistic camaraderie with connotations of commercialism.
-
-![Image by JAM Project-CC-By-NC-ND 2.0](https://open.lib.umn.edu/app/uploads/sites/280/2022/01/fukt-mcdonalds.jpg)
+* 
+**Parody of Iwo Jima Flag Image by JAM Project-CC-By-NC-ND 2.0**
+![Parody of Iwo Jima Flag Image by JAM Project-CC-By-NC-ND 2.0](https://open.lib.umn.edu/app/uploads/sites/280/2022/01/fukt-mcdonalds.jpg)
 
 * In an oppositional reading, the viewer subverts or challenges the basic ideas of an image circulating in public contexts. During the Iraq War, political cartoonist Billy Day drew a cartoon showing oil executives from Texaco, Exxon, Chevron, and Halliburton raising an oil derrick — and gas prices — under a banner reading “mission accomplished” in an oppositional reading of the famous Iwo Jima image.
-
+  
+**Bill Day cartoon**
 ![Bill Day cartoon](https://shaymont.wordpress.com/wp-content/uploads/2014/02/iwo-jima.jpg)
 
 “Mission Accomplished” was a phrase visually featured in a speech by George W. Bush, who had declared victory in Iraq and Afghanistan in 2003 while aboard an aircraft carrier. The cartoon is oppositional because it suggests that the U.S.'s motives for victory were financial rather than virtuous and that the “victory” that was sought might actually be reflected in harder times for Americans at the gas pumps. The oppositional reading, therefore, acknowledges the denotation (or “victory”) and the connotation (or “virtue”) by offering a rebuttal to the dominant reading on both fronts.
@@ -71,6 +73,7 @@ Let's examine two images of Rockwell paintings from Gallagher and Zagacki’s ar
 
 The first image of the Rockwell painting titled “The Problem We All Live With,” which depicts Ruby Bridges, the first Black child to desegregate Louisiana's all-white William Frantz Elementary School, on her way to her first class in 1960. The girl was escorted to school by four Federal marshals every day for a year and faced mobs screaming slurs at her and other harassment.
 
+**Rockwell's "The Problem We All Live With"**
 ![Rockwell's "The Problem We All Live With"](https://vitruvius.museumseven.com/render/600-600@2/dp-274852-22.jpg)
 
 * First, Rockwell’s style of painting departed from typical ways that Black Americans were represented in editorial cartoons. Whereas a common way of representing diversity was in cartoons and using racist stereotypes, Rockwell painted Bridges and his other subjects as realistic characters in a three-dimensional space. His artwork sought to faithfully render events as they actually transpired in public settings without lampooning or satirizing the subject material. In “The Problem We All Live With,” Rockwell places Bridges on a sidewalk, presumably on her way to school. In the background, the viewer can see the residue of a thrown tomato and a racist slur scrawled on the wall.
