@@ -1,4 +1,4 @@
-# Rhetoric and Narrative
+# 13. Rhetoric and Narrative
 
 **Credit**: This section is adapted from the chapter on rhetoric and narrative in Atilla Hallsby's CC-BY-NC work *Reading Rhetorical Theory* cited in the [References](references.md).
 
