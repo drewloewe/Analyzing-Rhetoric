@@ -1,4 +1,4 @@
-# What Makes a Successful Rhetorical Analysis?
+# 5. What Makes a Successful Rhetorical Analysis?
 
 
 ## Rhetorical Criticism as Argument 
