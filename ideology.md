@@ -25,7 +25,7 @@ Ideologies are not static; they require continual circulation of communication t
 
 ❓What communities do you belong to? What similarities or differences do they have in “patterns or systems of beliefs, concepts, attitudes, values, and assumptions”?
 
-**Specialized Term: Ideographs from Michael McGee**
+**Specialized Term: Ideograph**
 
 Rhetorical analysts who examine ideology use a specific enabling concept, the ideograph, to help focus their efforts. Rhetorical theorist Michael Calvin McGee defined the ideograph in a classic journal article in 1980. Ideographs, as McGee defined them, are "slogan-like terms signifying collective commitment to a particular but equivocal and ill-defined normative goal." In other words, an ideograph is not a special term; it’s an everyday term that regular people would use, but ideographs are used in context as part of some group’s hierarchy of values. Examples of typical US ideographs are such words as freedom, liberty, security, religion, rights, property, and privacy or short phrases such as the melting pot, law and order, or the American Dream.
 
