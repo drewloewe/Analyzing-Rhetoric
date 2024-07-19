@@ -1,4 +1,4 @@
-# Rhetoric and Close Textual Analysis
+# 12. Rhetoric and Close Textual Analysis
 
 **Credit**: This section is heavily indebted to Kevin Stein's article "Close Textual Analysis and the Link Between Theory and Rhetorical Artifact" listed in the [References](references.md).
 
