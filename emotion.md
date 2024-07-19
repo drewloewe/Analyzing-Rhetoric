@@ -1,4 +1,4 @@
-# Rhetoric and Emotion
+# 11. Rhetoric and Emotion
 
 ## Isn't Emotion to be Mistrusted?
 Probably the first place to start in understanding and analyzing emotional appeals in rhetoric is to recognize that the culture in which we are embedded tends to denigrate appeals to emotion as invalid, manipulative, and highly suspect. We hear slogans such as “Facts don’t care about your feelings” or even “Stop being so emotional.” We are socialized to mistrust emotional appeals as unpredictable, wild, propagandistic, or weak–the kind of thing that a rhetor resorts to when they don’t have better material to work with.
