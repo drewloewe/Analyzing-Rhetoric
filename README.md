@@ -18,13 +18,13 @@ See References below for citations to original sources whose ideas or words are 
 
 ### Core Concepts
 * [More About Arguing](more-about-arguing.md)
-* 
+* [Rhetoric and Metaphor](metaphor.md)
+* [Rhetoric and Ideology](ideology.md)
+* [Rhetoric and Emotion](emotion.md)
 * [Rhetoric and Close Textual Analysis](close-textual-analysis.md)
 * [Rhetoric and Narrative](narrative.md)
 * [Rhetoric and Visuals](visuals.md)
-* [Rhetoric and Metaphor](metaphor.md)
-* Rhetoric and Emotional Appeals
-* [Rhetoric and Ideology](ideology.md)
+
 
 ### Integrating Sources
 * [Integrating Sources](integrating-sources.md)
