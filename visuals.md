@@ -1,4 +1,4 @@
-# Rhetoric and Visuals
+# 14. Rhetoric and Visuals
 
 **Credit**: This section is adapted from the chapter on visual rhetoric in Atilla Hallsby's CC-BY-NC work *Reading Rhetorical Theory* cited in the References.
 
