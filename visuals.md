@@ -118,4 +118,5 @@ Finally, they must be regularly reproduced or copied across a range of media. Pa
 
 🔗 [Variants of Lange Photo found on Dorothea Lange Digital Archive site](https://dorothealange.museumca.org/image/poverty-is-a-crime-and-our-people-are-the-victims-black-panther-party-newspaper-with-migrant-mother-variant/2016.0.2a/)
 
-![Reddit Past and Present Pics post about Kent State Photo]()
+![Reddit Past and Present Pics post about Kent State Photo](<img width="1504" alt="Screenshot 2024-07-19 at 1 51 18 PM" src="https://github.com/user-attachments/assets/3e311208-228a-4b0e-8700-34e141da77b8">
+)
