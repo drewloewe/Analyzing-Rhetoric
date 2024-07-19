@@ -1,4 +1,4 @@
-# Rhetoric and Ideology
+# 10. Rhetoric and Ideology
 ## What is Ideology? Isn't it Bad?
 Maybe second only to rhetoric, ideology is a term that seems to have a) one meaning in common usage and b) another for people who study and analyze rhetoric.
 In everyday uses of the term, ideology is often used as a shorthand for “prefabricated political agenda,” “hyperpartisan point of view,” “excuse for oppressive domination,” or something like “blinders that prevent you from seeing the truth.” People will often claim that they have the facts, but their adversaries have only ideology. (Notice how “ideology” seems only to be something one’s opponent is accused of being influenced by!). 
