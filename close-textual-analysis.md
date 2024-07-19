@@ -29,7 +29,7 @@ Kevin Stein sums up this debate thus:
 
 >>These attitudes regarding the boundaries of discourse and the importance of rhetorical context help to explain the specific approaches offered by Leff and McGee. Leff wants to understand how rhetoric functions to create meaning. McGee wants to examine the product in order to understand the specific social and historical processes that constituted it. This process/product distinction is at the heart of the chasm that separates Leff from McGee.
 
-So both Michaels wanted to break away from theory as being deterministic or dictating what the analyst should do and both wanted to focus on what the artifact was doing instead of "applying" off-the-shelf sets of concepts. But they took slightly different paths, leaving us with the question of *what an analyst doing a close textual reading should actually do*.
+So both Michaels wanted to break away from theory as being deterministic or dictating what the analyst should do and both wanted to focus on what the artifact was doing instead of merely "applying" off-the-shelf sets of concepts. But they took slightly different paths, leaving us with the question of *what an analyst doing a close textual reading should actually do*.
 
 ## One Way to Do a Close Textual Reading
 
