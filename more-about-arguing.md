@@ -1,4 +1,4 @@
-# More About Arguing
+# 8. More About Arguing
 ## Claim and Support
 You’ve already learned a little about the way that our course asks you to understand your own activities in arguing—that is, not as quarreling, fighting, or merely disagreeing reflexively as a partisan such as talking-head guests on cable TV infotainment shows do. While such squabbling with words falls under the broad heading of rhetoric (and thus could be something you examine in a project), here we are going to understand arguing as a process of making claims connected to support for those claims.
 
