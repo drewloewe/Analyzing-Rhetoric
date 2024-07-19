@@ -8,27 +8,27 @@ See References below for citations to original sources whose ideas or words are 
 ## Contents
 
 ### Getting Started
-* [What is Rhetoric?](https://github.com/drewloewe/Analyzing-Rhetoric/blob/main/what-is-rhetoric.md)
-* [Why Learn Rhetorical Analysis?](https://github.com/drewloewe/Analyzing-Rhetoric/blob/main/why-learn-rhetorical-analysis.md)
-* [Key Terms](key-terms.md)
-* [What is Rhetorical Theory?](https://github.com/drewloewe/Analyzing-Rhetoric/blob/main/rhetorical-theory.md)
-* [What Makes a Successful Rhetorical Analysis?](successful-rhetorical-analysis.md)
-* [Resources to Get Started](resources.md)
-* [Advice to Beginning Rhetorical Analysts](advice-to-beginners.md)
+* [1. What is Rhetoric?](https://github.com/drewloewe/Analyzing-Rhetoric/blob/main/what-is-rhetoric.md)
+* [2. Why Learn Rhetorical Analysis?](https://github.com/drewloewe/Analyzing-Rhetoric/blob/main/why-learn-rhetorical-analysis.md)
+* [3. Key Terms](key-terms.md)
+* [4. What is Rhetorical Theory?](https://github.com/drewloewe/Analyzing-Rhetoric/blob/main/rhetorical-theory.md)
+* [5. What Makes a Successful Rhetorical Analysis?](successful-rhetorical-analysis.md)
+* [6. Resources to Get Started](resources.md)
+* [7. Advice to Beginning Rhetorical Analysts](advice-to-beginners.md)
 
 ### Core Concepts
-* [More About Arguing](more-about-arguing.md)
-* [Rhetoric and Metaphor](metaphor.md)
-* [Rhetoric and Ideology](ideology.md)
-* [Rhetoric and Emotion](emotion.md)
-* [Rhetoric and Close Textual Analysis](close-textual-analysis.md)
-* [Rhetoric and Narrative](narrative.md)
-* [Rhetoric and Visuals](visuals.md)
+* [8. More About Arguing](more-about-arguing.md)
+* [9. Rhetoric and Metaphor](metaphor.md)
+* [10. Rhetoric and Ideology](ideology.md)
+* [11. Rhetoric and Emotion](emotion.md)
+* [12. Rhetoric and Close Textual Analysis](close-textual-analysis.md)
+* [13. Rhetoric and Narrative](narrative.md)
+* [14. Rhetoric and Visuals](visuals.md)
 
 
 ### Integrating Sources
-* [Integrating Sources](integrating-sources.md)
+* [15. Integrating Sources](integrating-sources.md)
 
 ### References
 
-* [References](references.md)
+* [16. References](references.md)
