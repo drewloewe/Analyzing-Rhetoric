@@ -38,11 +38,12 @@ Visual culture is the site of **dominant**, **negotiated**, and **oppositional**
 
 
 * The dominant reading is the preferred, taken-for-granted, hegemonic reading. In a dominant reading, the viewer takes the connoted meeting, and operates in the dominant code. Depicted below is the famous “Flag Raising on Iwo Jima.” It is also an example of an “iconic photograph.” The most literal, hegemonic interpretation of the image is as a celebration of American teamwork in service of the shared goal of U.S. military victory. This is a dominant reading of this image. According to Palczewski et.al., “by recognizing and accepting these connotations, we participate in a dominant reading, in which what this means for the United States culturally is accepted and goes unchallenged.”
+  
 **Iwo Jima flag image**
-  ![Iwo Jima flag image](https://open.lib.umn.edu/app/uploads/sites/280/2022/01/flag-raising-on-iwo-jima.png)
+![Iwo Jima flag image](https://open.lib.umn.edu/app/uploads/sites/280/2022/01/flag-raising-on-iwo-jima.png)
 
 * A negotiated reading is where the viewer accepts some of the taken-for-granted meanings but recognizes exceptions. They understand what the image depicts, but challenge what it means. Depicted below is public artwork from Sydney, Australia that shows soldiers raising a McDonald’s sign rather than the flag. Like the original photograph, the image denotes a kind of military “victory,” but one that ultimately supports America as the land of capitalist corporations rather than as upholding civic virtue. The negotiated reading allows some of the photograph’s original meanings to be accepted — the denotation of American victory — while others are challenged — replacing nationalistic camaraderie with connotations of commercialism.
-* 
+  
 **Parody of Iwo Jima Flag Image by JAM Project-CC-By-NC-ND 2.0**
 ![Parody of Iwo Jima Flag Image by JAM Project-CC-By-NC-ND 2.0](https://open.lib.umn.edu/app/uploads/sites/280/2022/01/fukt-mcdonalds.jpg)
 
@@ -81,7 +82,6 @@ The first image of the Rockwell painting titled “The Problem We All Live With,
 * Finally, Rockwell’s image made abstract political concepts such as segregation and equality knowable. Ruby is depicted as “on her way” to a desegregated education, while in reality she was still segregated within the school. Although Ruby represented the political battle over the desegregated classroom, Ruby was not “free” in her learning environment, contained by American racism, law enforcement escorts, and a community that was reluctant to accept her.
 
 **"New Kids in the Neighborhood"** 
-
 The second image is called “New Kids in the Neighborhood,” which depicts a Black family moving into a white suburb.
 
 ![Rockwell's "New Kids in the Neighborhood"](https://vitruvius.museumseven.com/render/600-600@2/dp-281625-22.jpg)
@@ -113,9 +113,11 @@ First, iconic photographs must be recognized by everyone in a public culture. Ea
 
 Second, iconic photographs must be understood as representations of historically significant events. As artifacts of American public culture, both “Flag-raising at Iwo Jima” and “V-J Day in Times Square” are representations of wartime victory or post-war celebration that clearly mark the end of WWII. The Kent State photograph is widely recognized as a representation of American culture and student resistance during the Vietnam War.
 
-Third, they must depict objects of strong emotional identification and response. The “ideas” depicted in each of the photographs are highly charged, emotionally. Each represents a kind of emotional release, the enthusiasm that comes with collective victory and success, the joy of being reunited with a loved one, the grief, and anger that accompanies the taking of innocent life. In each case, the emotions are high key and prominent to the viewer. 🔗 [Dorothea Lange's "Migrant Mother"](https://www.moma.org/collection/works/50989) shows a migrant farmworker and three of her children in a tent at a workers' camp during the Depression and evokes strong identification with the family's desperation. 
+Third, they must depict objects of strong emotional identification and response. The “ideas” depicted in each of the photographs are highly charged, emotionally. Each represents a kind of emotional release, the enthusiasm that comes with collective victory and success, the joy of being reunited with a loved one, the grief, and anger that accompanies the taking of innocent life. In each case, the emotions are high key and prominent to the viewer. 
 
-Finally, they must be regularly reproduced or copied across a range of media. Part of what contributes to the recognizability of the photographs is the fact that they have been so widely circulated, reproduced, and parodied, as in these three examples:
+For instance, 🔗 [Dorothea Lange's "Migrant Mother"](https://www.moma.org/collection/works/50989) shows a migrant farmworker and three of her children in a tent at a workers' camp during the Depression and evokes strong identification with the family's desperation. 
+
+Finally, iconic images must be regularly reproduced or copied across a range of media. Part of what contributes to the recognizability of the photographs is the fact that they have been so widely circulated, reproduced, and parodied, as in these three examples:
 
 **V-J Day in Times Square painting by Kobra. Image by B. de los Arcos. CC BY-NC 2.0**
 ![V-J Day in Times Square painting by Kobra. Image by B. de los Arcos. CC BY-NC 2.0](https://open.lib.umn.edu/app/uploads/sites/280/2022/01/chapter9kissing.jpg) 
