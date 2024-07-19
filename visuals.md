@@ -2,7 +2,7 @@
 
 **Credit**: This section is adapted from the chapter on visual rhetoric in Atilla Hallsby's CC-BY-NC work *Reading Rhetorical Theory* cited in the References.
 
-The first part of this section is about “visual culture” and adapts seven premises developed by Dr. Catherine Palczewski, John Fritch, and Richard Ice in their textbook, *Rhetoric in Civic Life*. The second section is about four distinct genres of visual rhetoric: iconic photographs, monumental rhetoric, body rhetoric, and image events.
+The first part of this section is about “visual culture” and adapts seven premises developed by Dr. Catherine Palczewski, John Fritch, and Richard Ice in their textbook, *Rhetoric in Civic Life*. The second section is about four distinct genres of visual rhetoric: iconic photographs, body rhetoric and enactment, monumental rhetoric, and image events.
 
 ## Visual Culture
 In what ways is the contemporary world, particularly in the U.S., a visual culture? Visual cultures are scenes of shared public life where shared meaning is made using images, artwork, and memes. Although social media platforms have made visual representation and persuasion a common part of American public life, U.S. culture has a long history of commemoration, identification, and self-representation through visual imagery. There are at least seven different ways that a visual culture has manifested historically in the United States:
@@ -136,3 +136,61 @@ Finally, iconic images must be regularly reproduced or copied across a range of 
 **Reddit Past and Present Pics post about Kent State Photo, user HBScott1961**
 
 ![Reddit Past and Present Pics post about Kent State Photo, user HBScott1961](https://github.com/user-attachments/assets/3e311208-228a-4b0e-8700-34e141da77b8)
+
+## Body Rhetoric and Enactment
+According to Palczewski, et. al., **body rhetoric** tries to capture the impact the human body has on the messages that it communicates: “Who says a message and how a body is made present communicate as much as what is said.” Body rhetoric is rhetoric that foregrounds the body as part of the symbolic act. Enactment occurs when the person engaging in symbolic action functions as proof of the argument they advance.
+
+**Demonstrators Urging a "No" Vote on Brett Kavanaugh's SCOTUS Nomination**
+
+![Photo by Phiend. CC BY-NC-ND 2.0](https://open.lib.umn.edu/app/uploads/sites/280/2022/01/chapter9kavanaugh.jpg)
+
+The photo above as taken on the day of Brett Kavanaugh’s confirmation to the Supreme Court in 2018. Kavanaugh was confirmed to the Supreme Court after a number of women, including Dr. Christine Blasey-Ford, testified that Kavanaugh had sexually assaulted them. During the protests around Kavanaugh's confirmation, body rhetoric, or rhetoric that foregrounds the body as part of the symbolic act, occured when the crowd of protestors gave public anger a communicable form. Following the vote that confirmed him and just before his swearing-in, a contingent of protesters descended on the Supreme Court. Bodies poured onto the stairs with chants such as “Whose Court? Our Court” and “Arrest Sexual Predators, Not Protesters.” 
+
+The second way that body rhetoric occurred during this event was as enactment, as protesters used their own bodies as examples of what they were protesting. Occupying the prohibited stairways and chanting through the swearing-in, this protest was capped by the 🔗 [Alex Wong's photo](https://media.npr.org/assets/img/2018/10/06/gettyimages-1046730162metoo_wide-622af69a959f1b26c286479f1d648612ec0455f8-s800-c85.webp) of a woman who climbed the statue titled “Contemplation of Justice," sat in her lap, and held up a fist and a small handwritten sign reading “#MeToo.” 
+
+## Monumental Rhetoric
+
+Palczewski, et. al. group monuments, memorials, and museums together as a unique genre of visual rhetoric. The assert that this grouping is appropriate because “controversy often arises over monuments and memorials,” which mark famous locations or commemorate the dead — and because they “direct people’s views of themselves.” Visual rhetoric is concerned with the way that certain sites are places where shared meaning is made, and how this shared meaning is transmitted in the representation of a place, as well as the experience of "being there." Monumental rhetoric guides people in their thinking about facts from the past, how to act in the present, and what possible futures to seek. They sustain what a public remembers about its own historical events, and make arguments about how to think about the identities of particular groups of people.
+
+**“Ground Zero – New York City” by www.davidbaxendale.com, CC BY-ND 2.0**
+
+![“Ground Zero – New York City” by www.davidbaxendale.com, CC BY-ND 2.0](https://open.lib.umn.edu/app/uploads/sites/280/2022/01/21035244516_b9ca151c46_c.jpg)
+
+**9/11 Memorial and Museum by Paul Sableman. CC BY 2.0**
+
+![9/11 Memorial and Museum by Paul Sableman. CC BY 2.0](https://open.lib.umn.edu/app/uploads/sites/280/2022/01/chapter9nineelevenmemorial.jpeg)
+
+As an example, the 9/11 memorial in New York City demonstrates how this kind of memory — which is about the past, present, and future — is built into visual representations and the experience of being there.  According to Palczewski, et. al “The Freedom Tower at Ground Zero, now called One World Trade Center, did not open until 2015. Disagreement over the form of monumental structures at the site delayed construction until 2006. The final monument does a lot of representational work by commemorating the dead and creating a symbolic reminder of September 11th." Here is a description of the structure from rhetorical critics Nicholas S. Paliewicz and Marouf Hasian Jr.:
+
+>> The footprint of the memorial is the hollowed-out remains of the former Twin Towers. Here, in their vacancies, they are a key part of ‘reflective absences,’ the massive architectural counters that channel the symbolic water. Each footprint is nearly an acre in size and, from their peripheries, cascades of water pummel downward to the basin 30 feet below. The water then moves its way towards the epicenter of each footprint where it drops another 30 feet only to be pumped and recycled all over again. The names of those who perished on 9/11 are etched on bronze parapets that surround the reflecting pools. While the North Pool contains the names of victims from the North Tower, the 1993 bombing, and Flight 11, the South Pool has the names of those from the South Tower, the First Responders, Flight 93, Flight 77, the Pentagon, and Flight 173. Like graveyard tombstones, the granite names of those who lost their lives may offer a sense of connectedness between the visitor and the dead. At the same time, the water produces an aesthetic of peace and tranquility that might relieve any lingering trauma from 9/11. For many commentators and visitors, the water is said to be a healing feature of the Memorial, a material reality that influences how one contextualizes 9/11.
+
+Rhetorical scholar and analyst Joshua Gunn calls the commemoration of 9/11 “a cultural performance of witnessing, a longing to return to, and escape from, the violent scene.” The endlessly flowing pools also remind viewers that they are not just healing waters but also open wounds. They capture loss while also reminding attendees of the towers that used to stand in the footprint of the memorial. This loss is created because the falls are built downward, a physical reflection of the towers that once stretched upward. Like a tower where a viewer from up-close would have to strain to see the top, the pools are built so as to create the illusion of an endless waterfall, where you would similarly strain to see the bottom.
+
+**“Ground Zero New York” by Eric Salard, CC BY-SA 2.0**
+
+![“GROUND ZERO NEW YORK” by ERIC SALARD, CC BY-SA 2.0](https://open.lib.umn.edu/app/uploads/sites/280/2022/01/14346778970_88eb7aaf0b_c.jpg)
+
+As an example of monumental rhetoric, the memorial offers us a version of the past, present, and future which are captured in the intentional design of the monument as well as the kind of experiences that can be had by people who pass through it. As a reminder of the past, it tells us about the tragedy of the towers’ destruction, as well as who was lost in the event. As a monument suited to present-day concerns, it allows visitors to remember, express grief, and see their own reflections in the lists of names. As a vision of the possible future, it seeks to communicate a sense of loss as a reminder and warning for what might come next.
+
+
+## Image Events
+
+**Image events** are staged acts designed for media dissemination. Recently, controversy erupted over the way that the National Archives blurred and censored protest signs from the Women’s March in Washington. Protests are also carefully controlled events, often involving the securing of permits and the supervision of the police. Protests are therefore either choreographed or not; the way they are captured as organized or disorganized, as having a story or not, dictates how they are reported and remembered.
+
+Palczewski, et. al. tells the story of the “original” image event, which was staged by Greenpeace on July 27, 1975.  Developed by Greenpeace activists who wanted to stage protests in a publicly visible way that could be widely circulated, the “Mind Bomb” was a way to publicize the social movement to save the whales. The problem with image events is that their staging can be genuine or disingenuous. 
+
+⏯️ [*How to Change the World* Trailer](https://www.youtube.com/watch?v=U-XQAN9L_MQ)
+
+If we were to compare the tactics of Greenpeace to say, the ⏯️ [television show *Whale Wars*[(https://www.youtube.com/watch?v=w7O0cNY2jaE&list=PL1n_yrOf3bYbtfP4XOXHf2aojid2_UFZR), which was canceled after facing significant legal troubles, we can see that strategically staged protests can serve the interests of social movements, as can other events calculated to generate images, such as when [Donald Trump kissed the fire suit of the man](https://www.yahoo.com/news/trump-kisses-fire-suit-fallen-032141845.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAMFHVEimtkC3q3j84MT2z962HOksgpyZUk4LRy8ultA52YJjxeVvdQDb0SsCqOODVGZbukYvMoqQ-nfCmOdADiIuvEo_q48RLFxwFj00oAbzgnruS6AkkTX8YLvug4LqIN1B3KB5fTbnSu_8WurAFTtJkS_sx0_jLFz9ngAgj2PL) killed during the July 2024 assassination attempt on Trump. 
+
+Sometimes, image events are co-opted for other purposes, as in the infamous ⏯️ [Pepsi Cola commercial starring Kendall Jenner](https://www.youtube.com/watch?v=uwvAgDCOdU4), which was quickly ⏯️ [parodied by *Saturday Night Live*](https://www.youtube.com/watch?v=Pn8pwoNWseM&t=9s), or 🔗 [tobacco companies' efforts to create a fake 
+"grassroots" campaign to fight the smoking ban on airplanes](https://www.industrydocuments.ucsf.edu/tobacco/docs/#id=slbf0114). 
+
+## Reviewing the Genres of Visual Rhetoric
+* An iconic photograph can take many forms, but it would not be something with personal meaning like a family photograph, a random picture of a politician in front of a well-known building, or a well-taken picture of a monument at sunset. It must be published and circulated; it must be well-recognized as commemorating a historical moment or event. However, the meaning of an iconic photograph isn’t an image where everyone agrees on what it means. Instead, it’s possible that people forget what it means, and for people to remake its commonly accepted meaning.
+* Bodies can be the proof of an argument, and can be an argument. Bodies can also make the argument that their own speech has been restricted. When a person’s body is an example of the argument they are making, it is enactment.
+* Monuments commemorate and create history. The architecture and movement through a monument are also a part of its rhetoric. Visitors are guided to perceive objects from a new perspective because of the symbolic and embodied design of memorials.
+* Finally, image events take the form of representations of an instance of social protest. Multiple photographs or video summarize a movement, such as news footage of the National Womens’ March, would be examples of an example of image events.
+
+
+
