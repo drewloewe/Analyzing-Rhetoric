@@ -19,7 +19,7 @@ There are many definitions and classifications of emotion, most of which overlap
 
 Let’s pause to explain the ideas embedded in Worsham’s definitional metaphor of the “tight braid”:
 
-Affect (pronounced AFF-ect) is perhaps best thought of as the raw, embodied human capacity to feel that precedes being understood as any particular emotion. Have you ever said “I felt it in my gut?” That is a description of the experience of affect. In Worsham’s definition, this capacity to feel is intimately connected to judgment, the ability to weigh competing views. In other words, feeling and thinking are not necessarily opposites but what and how we feel is connected to what and how we think.
+Affect (pronounced AFF-ect) is perhaps best thought of as the raw, embodied human capacity to feel that precedes being understood as any particular emotion. Have you ever said, “I felt it in my gut?” That is a description of the experience of affect. In Worsham’s definition, this capacity to feel is intimately connected to judgment, the ability to weigh competing views. In other words, feeling and thinking are not necessarily opposites but what and how we feel is connected to what and how we think.
 
 Emotions circulate within groups and cultures; we learn about them from early childhood in living with and relating to other people. We learn names for complexes of particular sets of feelings that we experience in our bodies. We perform certain behaviors, which are associated in cultural contexts with names such as joy, grief, anger, resolve, outrage, and many others. These experiences can be shared and are not merely idiosyncratic to the individual
 
@@ -30,7 +30,7 @@ Again, notice that this definition is not just about individuals feeling private
 
 Indeed, as Celeste Condit puts it:
 
->> Although individual feelings have [a] subjective component, emotions are not merely warning signs within an individual, but rather they are generally also relational signals for co-orienting people. If emotions were not social messages, but rather just internal warning signs, there would be no explanation for many of their bodily manifestations—tears, glowering, reddening, volume shifts, chest expansion, etc. Although these signals are culturally modulated, suppressed, heightened, and perhaps even on occasion utterly unique fabrications of a particular culture, people in all cultures offer emotional signals about relationships to other people.
+>> Although individual feelings have [a] subjective component, emotions are not merely warning signs within an individual, but rather they are generally also relational signals for co-orienting people. If emotions were not social messages, but rather just internal warning signs, there would be no explanation for many of their bodily manifestations—tears, glowering, reddening, volume shifts, chest expansion, etc. Although these signals are culturally modulated, suppressed, heightened, and perhaps even on occasion utterly unique fabrications of a particular culture, people in all cultures offer emotional signals about relationships with other people.
 
 Micciche explains that emotion "binds the social body together as well as tears it apart.” This binding or tearing apart highlights two important considerations about building emotional appeals. As Mark Garrett Longaker and Jeffrey Walker explain, a rhetor seeking to move an audience via emotion must attend to two considerations:
 “Typically, the [rhetor] must first present causes for emotion … to arouse, intensify, or change the audience’s emotion. Then the emotion functions as a reason for embracing an idea or taking action." 
@@ -59,7 +59,7 @@ This orientation toward a shared, social conception of emotion as the source of 
 
 Shari Stenberg urges us to develop our skills in 
 
->> examining the public rhetoric of emotion through texts and practices that help us to (1) make visible the social factors that result in seemingly natural ways of categorizing emotion and (2) examine the multiple ways emotions are read as appropriate or not when expressed by different subjects and in different contexts.
+>> . . . examining the public rhetoric of emotion through texts and practices that help us to (1) make visible the social factors that result in seemingly natural ways of categorizing emotion and (2) examine the multiple ways emotions are read as appropriate or not when expressed by different subjects and in different contexts.
 
 To illustrate what developing this skill can show, Stenberg uses the example of contrasts in news coverage of President Obama’s use of anger and Hillary Clinton’s showing vulnerability on the campaign trail. When Obama reacted angrily to large bonuses paid to financial firms bailed out by the government in the Great Recession, Stenberg explains, it was seen as a rhetorical strategy that the usually placid “No-Drama Obama” chose.
 
