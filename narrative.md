@@ -50,9 +50,9 @@ When we recognize the similarities between these images, we can see how a simila
 
 By themselves, forms are ambivalent concerning the ethical or political goals that they serve. Studying form alone cannot tell us which forms are correct or better or worse. They serve a number of different purposes. When analzying forms, we have to pay attention to where and how those forms are being used. The following video offers an excellent example of forms and how they may be picked up, repeated, and recur in many different texts.
 
-Many narratives, especially in U.S. or Western contexts, use the 🔗 [three-act structure](https://www.studiobinder.com/blog/three-act-structure/), or the 🔗 [Hero's Journey](https://orias.berkeley.edu/resources-teachers/monomyth-heros-journey-project). These structures are not the only ones, but they are common.  
+Many narratives, especially in U.S. or Western contexts use the 🔗 [three-act structure](https://www.studiobinder.com/blog/three-act-structure/), or the 🔗 [Hero's Journey](https://orias.berkeley.edu/resources-teachers/monomyth-heros-journey-project). These structures are not the only ways to structure a narrative, but they are common and indeed become more common by being taught and analyzed. This becomes something of a chicken-egg question.
 
-❓What are the forms that have most gotten your attention in the last month? 
+❓What are the forms that have most gotten your attention in the last month? Here's a chicken-egg question: What came first? The narrative or the structure? 
 
 ## Genres
 
