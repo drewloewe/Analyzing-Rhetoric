@@ -1,6 +1,6 @@
 # 13. Rhetoric and Narrative
 
-**Credit**: This section is adapted from the chapter on rhetoric and narrative in Atilla Hallsby's CC-BY-NC work *Reading Rhetorical Theory* cited in the [References](references.md).
+**Credit**: This section is largely adapted from the chapter on rhetoric and narrative in Atilla Hallsby's CC-BY-NC work *Reading Rhetorical Theory* cited in the [References](references.md).
 
 Narratives have many different components that make them rhetorically relevant. They are reflections of an audience’s values: a story is never just a story. They are about the people telling them, about ways of envisioning the future, or about the contemporary problems that those tellers are confronted with.
 
@@ -49,6 +49,8 @@ When we recognize the similarities between these images, we can see how a simila
 ![Brittney Broski meme and its use on protest sign](https://open.lib.umn.edu/app/uploads/sites/280/2022/01/chapter8kombucha.png)
 
 By themselves, forms are ambivalent concerning the ethical or political goals that they serve. Studying form alone cannot tell us which forms are correct or better or worse. They serve a number of different purposes. When analzying forms, we have to pay attention to where and how those forms are being used. The following video offers an excellent example of forms and how they may be picked up, repeated, and recur in many different texts.
+
+Many narratives, especially in U.S. or Western contexts, use the 🔗 [three-act structure](https://www.studiobinder.com/blog/three-act-structure/), or the 🔗 [Hero's Journey](https://orias.berkeley.edu/resources-teachers/monomyth-heros-journey-project). These structures are not the only ones, but they are common.  
 
 ❓What are the forms that have most gotten your attention in the last month? 
 
