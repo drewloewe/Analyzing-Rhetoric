@@ -5,7 +5,7 @@ In everyday uses of the term, ideology is often used as a shorthand for “prefa
 
 ❓Pay attention to how the word "ideology" circulates in everyday contexts and see if you agree with the way that I have characterized its ordinary usage. Do you?
 
-But, as we did with the term "rhetoric,: we are going to take a more specialized approach to the term ideology because we are interested in sharpening our ability to notice and make sense of communicative choices.
+But, as we did with the term "rhetoric," we are going to take a more specialized approach to the term ideology because we are interested in sharpening our ability to notice and make sense of communicative choices.
 
 ## A More Specialized Definition of Ideology from Linda Berger
 
@@ -16,7 +16,7 @@ Members of certain groups share these patterns or systems. Ideology is a group, 
 * **1) The “integrating” function**. That is, if members of a group have the same commitments and values, they tend to invest the same sets of ideas, symbols, and worldviews with a lot of meaning and evaluative power (e.g. good/bad, safe/risky, us/them, etc.). Sharing those commitments and values helps individuals and groups to craft their identities (“what we stand for”) and work together.
 * **2) The “legitimizing” function**. That is, “by filling in gaps in our reasoning with the glue provided by shared networks” of beliefs and values, ideologies might “make the current state of things seem natural and inevitable.”
 * **3) The “distorting” function**. (See Note) We are all familiar with the phenomenon we have observed in ourselves and others that one’s experiences, upbringing, previous work, etc. filter how we see the world. Indeed, how could they not? Often, the filtering function can be observed in the choice of terms and how those terms interact with one another, in what rhetorical theorist and critic Kenneth Burke called “terministic screens” that “select, reflect, and deflect” attention:
-We must use terministic screens, since we can’t say anything without the use of terms; whatever terms we use, they necessarily constitute a corresponding kind of screen; and any such screen necessarily directs the attention to one field rather than another.
+We must use terministic screens since we can’t say anything without the use of terms; whatever terms we use, they necessarily constitute a corresponding kind of screen; and any such screen necessarily directs the attention to one field rather than another.
 
 NOTE: Berger calls this a “distorting” function, but that word choice implies that there is some way for human beings to step out of the condition of being human beings who use language and symbols to understand and communicate. I would much prefer to call this function a “filtering” function because ideologies shape our views, and we are always situated within language, culture, and context. So we will amend Berger’s definition of this function for our purposes and call it the **“filtering” function**.
 
@@ -32,7 +32,7 @@ Rhetorical analysts who examine ideology use a specific enabling concept, the id
 **PRO TIP**: When rhetorical analysts examine ideographs, they use a special but simple notation to show that they are treating these words and phrases as ideographs. The notation uses angle brackets: < >. So, to show that you are examining how "liberty" functions as an ideograph, you would mark it thus: <liberty>.
 Ideographs are like the label on the outside of a box, for example, a box labeled <the American Dream>, <law and order>, or <freedom>. Inside that box are what particular groups call "the American Dream, "law and order," or "freedom," which might look different from another group's view, even though the two groups both use the same ordinary words as shorthand for all their particular histories, values, commitments, and purposes. For particular groups, what does it mean to be <free>, <secure>, or <self-reliant>? That all depends on community, context, history, and culture.
 
-Ideographs can be defined and used in different ways by different audiences and groups. But ideographs are taken for granted in their context–they are shared and usually unquestioned in a group’s ideology. Their use throughout a given discourse or rhetorical artifact provides a powerful index to the worldview of that group as expressed in and exemplified by that artifact. Indeed, McGee calls ideographs “the basic structural elements, the building blocks, of ideology.” These building blocks are used by individuals in relation to groups, but persist and evolve beyond the contexts of single rhetors or single occasions. Ideographs operate individually and in clusters with other associated ideographs in a particular group's ongoing efforts to maintain collective commitment to values and purposes and to differentiate the particular group from other groups.
+Ideographs can be defined and used in different ways by different audiences and groups. But ideographs are taken for granted in their context–they are shared and usually unquestioned in a group’s ideology. Their use throughout a given discourse or rhetorical artifact provides a powerful index to the worldview of that group as expressed in and exemplified by that artifact. Indeed, McGee calls ideographs “the basic structural elements, the building blocks, of ideology.” These building blocks are used by individuals in relation to groups but persist and evolve beyond the contexts of single rhetors or single occasions. Ideographs operate individually and in clusters with other associated ideographs in a particular group's ongoing efforts to maintain a collective commitment to values and purposes and to differentiate the particular group from other groups.
 
 For example, a page on one American political party's website (The Green Party) declares the party's values by using this cluster of values, which operate as ideographs:
 
@@ -69,7 +69,7 @@ On its website, St. Edward's University declares a collective commitment to Acad
 * the unitary executive
 * separation of powers
 * hope and change
-* #MAGA
+* #MAGA,#MAGOA
 * Black Lives Matter
 * Blue Lives Matter
 * All Lives Matter
@@ -90,7 +90,7 @@ In other words, hegemony operates at the level of the orthodox, default, taken-f
 
 ❓What examples of "that's just the way things are" views can you name in current US culture? What are the terms by which ideas can be challenged? By whom? Under what conditions? How about in other countries?
 
-Hegemony encompasses the constant need for broad consent to the prevailing view to be maintained (and to withstand challenges) by general consent, not by top-down force as the only means. Hegemony operates in part thorough material means or even force, but also through the circulation of rhetoric. Benedetto Fontana, a scholar of political philosophy, explains it this way:
+Hegemony encompasses the constant need for broad consent to the prevailing view to be maintained (and to withstand challenges) by general consent, not by top-down force as the only means. Hegemony operates in part through material means or even force, but also through the circulation of rhetoric. Benedetto Fontana, a scholar of political philosophy, explains it this way:
 
 >> [H]egemony describes the ways and methods by which consent is generated and organized, which, in turn, is directly related to the mechanisms and processes by which knowledge and beliefs are first, produced, and second, disseminated.
 
