@@ -49,12 +49,14 @@
 - Longaker, Mark G, and Jeffrey Walker. *Rhetorical Analysis: A Brief Guide for Writers*. Longman, 2011.
 - Madsen, Carsten, and Marie Lund. "Emotions in Rhetoric. From Technical to Generalized Pathos." *Rhetoric and Communications E-Journal*, vol. 48, 2021, pp. 8-30.
 - Maggor, Noam. "Into the Muck." *The European Review of Books*, no. 1, 2022. [https://europeanreviewofbooks.com/into-the-muck/en](https://europeanreviewofbooks.com/into-the-muck/en).
+- Maio, Alyssa. "What is the Three-Act Structure—and Why it Matters." *studiobinder,* 2023, [https://www.studiobinder.com/blog/three-act-structure/], 
 - McGee, Michael C. "The 'Ideograph': A Link Between Rhetoric and Ideology." *Quarterly Journal of Speech*, vol. 66, no. 1, 1980, pp. 1-16.
 - Micciche, Laura. “Emotion, Ethics, and Rhetorical Action.” *JAC*, vol. 25, no. 1, 2005, pp. 161–84.
 - ---. *Doing Emotion: Rhetoric, Writing, Teaching*. Boynton/Cook-Heinemann, 2007.
 - Miller, Carolyn R. “Genre as Social Action.” *Quarterly Journal of Speech*, vol. 70, no. 2, May 1984, pp. 151–67.
 - ---. “Genre as Social Action (1984), Revisited 30 Years Later (2014).” *Letras & Letras*, vol. 31, no. 3, June 2015, pp. 56–72.
 - ---. “Exercising Genres: A Rejoinder to Anne Freadman.” *Discourse and Writing/Rédactologie*, vol. 30, Aug. 2020, pp. 133–40.
+- "Monomyth: Hero's Journey," *Monomyth: Hero's Journey Project,* [https://orias.berkeley.edu/resources-teachers/monomyth-heros-journey-project]
 - Palczewski, Catherine Helen, et al. *Rhetoric in Civic Life*. Strata Pub., 2012.
 - Ratcliffe, Krista. “In Search of the Unstated: The Enthymeme and/of Whiteness.” *JAC*, vol. 27, no. 1/2, 2007, pp. 275–90.
 - Richards, I.A. *The Philosophy of Rhetoric*. Oxford University Press, 1965.
