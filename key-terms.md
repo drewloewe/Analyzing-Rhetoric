@@ -22,7 +22,7 @@ Various systems have been formulated over the centuries and updated or contextua
 
 Stasis is a range of possibilities for inventing claims and focusing an argument.
 
-If a writer and audience are going to have a meaningful, relevant exchange (an explanation, an argument, or something else), they should first be on the same page about what the issue is and how to explain or argue about it. You have no doubt heard and used the sayings we’re not on the same page or comparing apples to oranges before. Those common sayings are expressions of the idea that there was no basic agreement yet on what the issue was or how to argue about it.
+If a writer and audience are going to have a meaningful, relevant exchange (an explanation, an argument, or something else), they should first be on the same page about what the issue is and how to explain or argue about it. You have no doubt heard and used the sayings "we’re not on the same page" or "comparing apples to oranges" before. Those common sayings are expressions of the idea that there was no basic agreement yet on what the issue was or how to argue about it.
 
 Stasis is best thought of as a system of asking questions across a spectrum from foundational to complex. It can help you to understand arguments and where misunderstandings arise. 
 
