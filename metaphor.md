@@ -14,7 +14,7 @@ Studies of metaphor have been greatly influenced by the work of linguists George
 
 L&J provide specialized terms so that we can examine metaphors and how they work with the precision that specialized terms provide. The most important terms to understand upfront are **target domain** and **source domain**.
 
-As L&J explain it, the target domain is “the immediate subject matter” and the source domain is provides the concepts through which the target is to be understood. So in our example above, your roommate is the target domain (immediate subject matter) and the set of concepts and behaviors associated with pigs is the source domain framing your depiction of the roommate’s behavior.
+As L&J explain it, the target domain is “the immediate subject matter” and the source domain provides the concepts through which the target is to be understood. So in our example above, your roommate is the target domain (immediate subject matter) and the set of concepts and behaviors associated with pigs is the source domain framing your depiction of the roommate’s behavior.
 
 Some common conceptual metaphors that L&J use as examples are:
 
@@ -41,7 +41,7 @@ Again, what is encouraged, expected, or rewarded on a football field versus a tr
 
 ❓What examples can you think of where “powerful perceptual links” were created with important consequences for multiple groups of people? Here is a partial list to get you started:
 
-* Nazi rhetoric by Hitler, Rosenberg, Goebbels, and others portrayed Jews and othersas “parasites” that poisoned and drained the life out of the “body” of the German nation
+* Nazi rhetoric by Hitler, Rosenberg, Goebbels, and others portrayed Jews and others as “parasites” that poisoned and drained the life out of the “body” of the German nation
 * Communism is a Cancer
 * “Our Friend the Atom”
 * The War on Drugs
@@ -51,7 +51,7 @@ Again, what is encouraged, expected, or rewarded on a football field versus a tr
 * Technology dinosaurs
 * “We are the Storm”
   
-Metaphor can be a powerful index to the overall vision of how a rhetor creates and suggest attitudes, actions, and associations—for good and for ill. The rhetorical analyst examining metaphor is working with some of the most fundamental and important considerations of how ideas circulate. As scholar and theorist Wayne Booth urged:
+Metaphor can be a powerful index to the overall vision of how a rhetor creates and suggests attitudes, actions, and associations—for good and for ill. The rhetorical analyst examining metaphor is working with some of the most fundamental and important considerations of how ideas circulate. As scholar and theorist Wayne Booth urged:
 
 >> To understand a metaphor is by its very nature to decide whether to join the metaphorist or reject him, and that is simultaneously to decide either to be shaped in the shape his metaphor requires or to resist. … In this perspective, criticism of metaphoric worlds, or visions, becomes one clear and important-perhaps the clearest and most important-instance of a general human project of improving life by criticizing it.
 
