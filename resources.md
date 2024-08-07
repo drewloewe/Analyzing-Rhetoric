@@ -26,7 +26,7 @@ For example, did you know that you can see what a website looked like ten years 
 You should take some time right now to explore those links and see what’s compiled there–the resources compiled there might interest you or lead you to other items that interest you. You should also let me know about items you’d like to see linked on that compilation. I, and future students, will thank you. 
 
 ### Will the Artifact “Work”? 
-in a specificYou should always choose the “best” artifact for your projects, which necessarily means that you’ve examined many possibilities and participated in class processes to help you focus your interests. To choose the best artifact, you need to say “no” to many “good” possibilities that are not quite as good as the best one is.
+You should always choose the “best” artifact for your projects, which necessarily means that you’ve examined many possibilities and participated in class processes to help you focus your interests. To choose the best artifact, you need to say “no” to many “good” possibilities that are not quite as good as the best one is.
 An artifact might work for a particular project if its form, genre, context,  purposes, and audiences give you enough meaningful, non-obvious points to argue about how it is working to shape a particular point of view.
 
 Each project will ask you to focus on certain rhetorical concepts and ask particular kinds of questions. When you focus on those concepts and ask those particular questions, what do you see in a specific artifact that might need an argument to point out?
