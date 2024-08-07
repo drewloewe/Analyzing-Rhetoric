@@ -11,6 +11,10 @@ See References below for citations to original sources whose ideas or words are 
 
 GitHub rocks. 🎸 🤘
 
+## Custom GPT "Rhetorical Analysis Tutor" 
+
+["Rhetorical Analysis Tutor"](https://chatgpt.com/g/g-kcMI2XzVN-rhetorical-analysis-tutor) offers help with understanding and using this open textbook and with other questions. Select a starter question on the GPT or type your own question. Please remember that AI resources are not always 100% reliable. Ask Prof. Loewe for help as needed.
+
 ## Contents
 
 ### Getting Started
