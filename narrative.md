@@ -66,6 +66,8 @@ When the formal elements of a genre are re-configured, they create new kinds of 
 
 * ⏯️ [Parody Trailer for *The Shining*](https://www.youtube.com/watch?v=-e6d_gzaDgk)
 
+* ⏯️ Here is a [recent example of a live-action video that parodies AI-generated videos](https://x.com/theGioM/status/1824000938870292771). Where do you see emerging genre features being used or subverted? What are the "messages" of the video?
+
 ❓Which genres most interest you? Why? 
 
 ## Narrative Frames
