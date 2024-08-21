@@ -2,7 +2,7 @@
 ## What is Metaphor? Isn't it Just Pretty Language?
 Unlike terms such as rhetoric and ideology, common uses of the term metaphor aren’t necessarily weighed down by negative associations. Most of us have been taught that a metaphor is a kind of vivid presentation in language where we are prompted to think of one thing in terms of another. Way back in the day, Aristotle offered this explanation of metaphor:
 
->> "Now strange words simply puzzle us; ordinary words convey only what we know already; it is from metaphor that we can best get hold of something fresh. When the poet calls 'old age a withered stalk,' he conveys a new idea, a new fact, to us by means of the general notion of bloom, which is common to both things.
+>> Now strange words simply puzzle us; ordinary words convey only what we know already; it is from metaphor that we can best get hold of something fresh. When the poet calls "old age a withered stalk," he conveys a new idea, a new fact, to us by means of the general notion of bloom, which is common to both things.
 
 This transfer of ideas from one thing to another (both plants and people bloom, grow, decay, and wither) can be seen in common expressions such as “my roommate is a pig" (example is from Sonja Foss). Assuming that your roommate’s species is *Homo sapiens* and not *Sus scrofa domesticus,* the metaphor prompts your audience to see the human being in light of the disorderly, dirty behavior of a pig. 
 
