@@ -18,13 +18,13 @@ To get audiences on board (or stay on board) with a set of ideas, rhetors must c
 
 As rhetoric scholar Celeste Condit puts it, 
 
->> Rhetoric is the clay of which the social pottery will be made. The character of the clay itself determines the character of the vessel."
+>> Rhetoric is the clay of which the social pottery will be made. The character of the clay itself determines the character of the vessel.
 
 Gerald Hauser, another scholar, offers an even more urgent rationale: 
 
 >> Without rhetorical competence, citizens are disabled in the public arenas of citizen exchange—the marketplace, the representative assembly, the court, and public institutions—and democracy turns into a ruse disguising the reality of oligarchic power.
 
-So if it's rhetoric all the way down, let's start to learn about, and judge, rhetorical efforts. 
+So if it's rhetoric all the way down in the rough-and-tumble world of reaching people and trying to motivate them to do, think, feel, or believe something, you should start to learn about, and judge, those rhetorical efforts. 
 ## The rationale for this course
 This is a course that helps you to develop your curiosity and skills in examining “the clay” that “the social pottery” is made of. Rhetoric involves taking a risk in communicating, a risk that the message might not be understood or might be misunderstood or subverted in ways that the rhetor cannot fully control. It involves making choices about what to say and how to say it, and it circulates in an environment of competing messages and purposes. Perhaps the most enthusiastic reason for learning rhetorical analysis I can give comes from Kathleen J. Turner, a scholar and professor of rhetoric. Turner argues that
 
