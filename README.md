@@ -3,7 +3,7 @@
 
 
 # Analyzing-Rhetoric
-This is an undergraduate textbook for analyzing rhetoric used at St. Edward's University. It can be adapted under the 🔗 [CC-BY-NC-4.0 license](https://creativecommons.org/licenses/by-nc/4.0/).
+This is an undergraduate "textbook" for analyzing rhetoric used at St. Edward's University. It can be adapted under the 🔗 [CC-BY-NC-4.0 license](https://creativecommons.org/licenses/by-nc/4.0/).
 
 **Suggested citation**: Loewe, Drew M. "Analyzing-Rhetoric." GitHub. Accessed (day) (month) (year). CC BY-NC-4.0.
 
