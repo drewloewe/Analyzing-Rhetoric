@@ -30,4 +30,4 @@ This is a course that helps you to develop your curiosity and skills in examinin
 
 >> The symbols we use— for ourselves, for others, for objects, for situations, for concepts— both empower and constrain our possibilities. For me, the glory of rhetorical analysis is that it helps us understand the choices that not only can but also must be made, and the ramifications of those choices for rhetors, publics, and societies.
 
-Rhetorical analysis is worth doing because it can help you to understand the choices that rhetors (and you are a rhetor, every single day) make in their efforts to get audiences to accept some idea, as well as the consequences of those choices and what might be applied in later situations.
+Rhetorical analysis is worth doing because it can help you to understand the choices that rhetors (and you are a rhetor, every single day) make in their efforts to get audiences to accept some idea, as well as the consequences of those choices and what might be applied in later situations. Rhetorical analysis helps you to learn the possibilities, limits, and consequences of the choices that people--including you--make when speaking or writing.
