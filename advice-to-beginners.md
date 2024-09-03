@@ -2,7 +2,7 @@
 
 This advice is derived from my work with students in this class over many years and from online resources developed by BYU's Writing Center and by Prof. Patricia Roberts-Miller, emerita professor at UT Austin. It also draws on a 2020 article by Whitney Gent, Emily Sauter, and Daniel Cronn-Mills (see References).
 
-## Interest" is, er...an Interesting Concept
+## "Interest" is, er...an Interesting Concept
 Your interest in analyzing a primary rhetorical artifact doesn’t necessarily mean that you approve of or agree with the artifact, its rhetor, or its audience. Remember that to analyze a primary artifact is not to just cheer for it. Neither is it to just attack it. You are acting as an observer--your project is not about whether you personally find the primary artifact persuasive, laudable, troubling, etc., or whether your values are the ones that matter in analysis. Concentrate on audiences, contexts, rhetorical appeals, and the particulars of each assignment’s concepts.
 In some of my work as a rhetorical analyst, I examine rhetoric that I would personally never find compelling, but I examine it, in part, because some audiences do find it compelling. The best motivation for a project is simple curiosity—an itch that you have to scratch. Write something that you’d like to read. 
 
