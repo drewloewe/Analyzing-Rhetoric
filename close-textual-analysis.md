@@ -25,7 +25,7 @@ So both Leff and McGee want to focus primarily on the artifact and don't want to
 
 Leff argued that it was possible to draw reasonably stable boundaries around a rhetorical artifact, such as a famous political speech, such that an analyst could work primarily with the text of the speech itself and pay relatively less attention to elaborating context or the effects the speech had. Leff did not argue that context was irrelevant but wanted analysts to focus mostly on the artifact itself. 
 
-McGee, on the other hand, saw rhetoric more expansively and woven into the creation and circulation of ideology, beliefs, and attitudes in a society. For McGee, individual texts are not discrete units of analysis but are "fragments of 'information' that constitute our context." So McGee emphasized that analysts should pay more attention to cultural contexts because "the elements of context are so important to the text that one cannot discover or even discuss the meaning of text without reference to them.”
+McGee, on the other hand, saw rhetoric more expansively and woven into the creation and circulation of ideology, beliefs, and attitudes in a society. McGee is the originator of the concept of the *ideograph*, discussed in an earlier section. For McGee, individual texts are not discrete units of analysis but are "fragments of 'information' that constitute our context." So McGee emphasized that analysts should pay more attention to cultural contexts because "the elements of context are so important to the text that one cannot discover or even discuss the meaning of text without reference to them.”
 
 Kevin Stein sums up this debate thus:
 
