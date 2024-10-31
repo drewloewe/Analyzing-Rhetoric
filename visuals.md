@@ -1,5 +1,8 @@
 # 14. Rhetoric and Visuals
 
+![visual culture](https://github.com/user-attachments/assets/549d1917-c356-4a25-be76-e448dd44db58)
+
+
 **Credit**: This section is adapted from the chapter on visual rhetoric in Atilla Hallsby's CC-BY-NC work *Reading Rhetorical Theory* cited in the References.
 
 The first part of this section is about “visual culture” and adapts seven premises developed by Dr. Catherine Palczewski, John Fritch, and Richard Ice in their textbook, *Rhetoric in Civic Life*. The second section is about four distinct genres of visual rhetoric: iconic photographs, body rhetoric and enactment, monumental rhetoric, and image events.
