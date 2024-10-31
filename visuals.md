@@ -181,7 +181,11 @@ Rhetorical scholar and analyst Joshua Gunn calls the commemoration of 9/11 “a 
 
 As an example of monumental rhetoric, the memorial offers us a version of the past, present, and future which are captured in the intentional design of the monument as well as the kind of experiences that can be had by people who pass through it. As a reminder of the past, it tells us about the tragedy of the towers’ destruction, as well as who was lost in the event. As a monument suited to present-day concerns, it allows visitors to remember, express grief, and see their own reflections in the lists of names. As a vision of the possible future, it seeks to communicate a sense of loss as a reminder and warning for what might come next.
 
-❓Come up with your own examples of monumental rhetoric—without referring to the Alamo.
+**"Hostile Architecture": a Form of Monumental rhetoric?**
+
+Read the [Wikipedia article about hostile architecture](https://en.wikipedia.org/wiki/Hostile_architecture#:~:text=Hostile%20architecture%20is%20an%20urban,behaviours%20they%20can%20engage%20in.). In addition to guiding behavior, how does it serve as a monument? 
+
+❓Come up with your own examples of monumental rhetoric—without referring to the Alamo, my fellow Texans.
 
 ## Image Events
 
